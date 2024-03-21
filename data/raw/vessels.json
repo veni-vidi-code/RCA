@@ -1,0 +1,183 @@
+{
+  "https://www.seenotretter.de/crews-stationen/rettungsflotte/28-meter-seenotrettungskreuzer": {
+    "range": [
+      {
+        "speed": -1,
+        "range": 600
+      },
+      {
+        "speed": -1,
+        "range": 800
+      }
+    ],
+    "tools": {
+      "towing": 7,
+      "firefighting": true,
+      "pumping": true,
+      "second_craft": true,
+      "first_aid": true,
+      "board_hospital": true
+    }
+  },
+  "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot": {
+    "range": [
+      {
+        "speed": 17,
+        "range": 240
+      }
+    ],
+    "tools": {
+      "towing": 1.5,
+      "firefighting": false,
+      "pumping": true,
+      "second_craft": false,
+      "first_aid": true,
+      "board_hospital": false
+    }
+  },
+  "https://www.seenotretter.de/crews-stationen/rettungsflotte/231-meter-seenotrettungskreuzer": {
+    "range": [
+      {
+        "speed": 10,
+        "range": 1200
+      }
+    ],
+    "tools": {
+      "towing": 10,
+      "firefighting": true,
+      "pumping": true,
+      "second_craft": true,
+      "first_aid": true,
+      "board_hospital": true
+    }
+  },
+  "https://www.seenotretter.de/crews-stationen/rettungsflotte/20-meter-seenotrettungskreuzer": {
+    "range": [
+      {
+        "speed": 12,
+        "range": 820
+      },
+      {
+        "speed": 22,
+        "range": 450
+      }
+    ],
+    "tools": {
+      "towing": 5,
+      "firefighting": true,
+      "pumping": true,
+      "second_craft": true,
+      "first_aid": true,
+      "board_hospital": true
+    }
+  },
+  "https://www.seenotretter.de/crews-stationen/rettungsflotte/46-meter-seenotrettungskreuzer": {
+    "range": [
+      {
+        "speed": 25,
+        "range": 920
+      },
+      {
+        "speed": 15,
+        "range": 2120
+      }
+    ],
+    "tools": {
+      "towing": 25,
+      "firefighting": true,
+      "pumping": true,
+      "second_craft": true,
+      "first_aid": true,
+      "board_hospital": true,
+      "helicopter": true,
+      "crane": true
+    },
+    "comment": "Schleppwinde 5/15t, Schlepphaken 25t SWL"
+  },
+  "https://www.seenotretter.de/crews-stationen/rettungsflotte/89-meter-seenotrettungsboot": {
+    "range": [
+      {
+        "speed": 27,
+        "range": 250
+      }
+    ],
+    "tools": {
+      "towing": 1.1,
+      "firefighting": false,
+      "pumping": true,
+      "second_craft": false,
+      "first_aid": true,
+      "board_hospital": false
+    }
+  },
+  "https://www.seenotretter.de/crews-stationen/rettungsflotte/275-meter-seenotrettungskreuzer": {
+    "range": [
+      {
+        "speed": -1,
+        "range": 770
+      }
+    ],
+    "tools": {
+      "towing": 10,
+      "firefighting": true,
+      "pumping": true,
+      "second_craft": true,
+      "first_aid": true,
+      "board_hospital": true
+    },
+    "comment": "No reach data from dgzrs available, instead from https://www.deutsche-leuchtfeuer.de/themen/sar/bremen.html"
+  },
+  "https://www.seenotretter.de/crews-stationen/rettungsflotte/85-meter-seenotrettungsboot": {
+    "range": [
+      {
+        "speed": 18,
+        "range": 200
+      }
+    ],
+    "tools": {
+      "towing": 1,
+      "firefighting": false,
+      "pumping": true,
+      "second_craft": false,
+      "first_aid": true,
+      "board_hospital": false
+    }
+  },
+  "https://www.seenotretter.de/crews-stationen/rettungsflotte/7-meter-seenotrettungsboot": {
+    "range": [
+      {
+        "speed": 24,
+        "range": 130
+      }
+    ],
+    "tools": {
+      "towing": 1,
+      "firefighting": false,
+      "pumping": true,
+      "second_craft": false,
+      "first_aid": true,
+      "board_hospital": false
+    }
+  },
+  "https://www.seenotretter.de/crews-stationen/rettungsflotte/365-meter-seenotrettungskreuzer": {
+    "range": [
+      {
+        "speed": 25,
+        "range": 900
+      },
+      {
+        "speed": 17,
+        "range": 1400
+      }
+    ],
+    "tools": {
+      "towing": 15,
+      "firefighting": true,
+      "pumping": true,
+      "second_craft": true,
+      "first_aid": true,
+      "board_hospital": true
+    },
+    "comment": "Schleppwind + Draht 12t SWL, Schlepphaken 15t SWL"
+  }
+}

@@ -1,0 +1,1558 @@
+[
+    {
+        "ship_info": {},
+        "station_info": {},
+        "basic_info": {
+            "boat": "Maritime Rescue Co-ordination Centre (MRCC) Bremen\n\nWerderstra\u00dfe 2\n28199 Bremen",
+            "webpage": "https://www.seenotretter.de/index.php?id=445",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.070964,8.807452"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "28-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/b/f/csm_28-m-Klasse_ohne_WL_ee3e48273c.jpg",
+            "L\u00e4nge": "27,90 Meter",
+            "Breite": "6,20 Meter",
+            "Tiefgang": "1,95 Meter",
+            "Verdr\u00e4ngung": "120 Tonnen",
+            "Leistung": "3.916 PS",
+            "Geschwindigkeit": "24 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/28-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Cuxhaven",
+            "Seenotrettungs\u00adkreuzer": "ANNELIESE KRAMER",
+            "Rufzeichen": "DBAM",
+            "Stammbesatzung": "9",
+            "Vormann": "Holger Wolpers",
+            "Liegeplatz": "F\u00e4hrhafen",
+            "Stationsgeb\u00e4ude": "Am Seedeich 36a",
+            "calculated_depth": -5.6503520011901855
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=673",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.876688,8.698304"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "9,41 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Brunsb\u00fcttel",
+            "Seenotrettungs\u00adboot": "GILLIS GULLBRANSSON",
+            "Rufzeichen": "DD 4598",
+            "Besatzung": "Freiwillige",
+            "Vormann": "J\u00fcrgen Grimsmann",
+            "Liegeplatz": "am Leitwerk vor der Nordschleuse",
+            "Stationsgeb\u00e4ude": "Schillerstra\u00dfe",
+            "calculated_depth": 6.834968090057373
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot GILLIS GULLBRANSSON\nLiegeplatz: am Leitwerk vor der Nordschleuse\n25541 Brunsb\u00fcttel",
+            "webpage": "https://www.seenotretter.de/index.php?id=671",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.889078,9.131225"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "23,1-Meter-Seenotrettungs\u00adkreuzer mit Tochterboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/e/e/csm_23_1-m-Klasse_b9def99d93.jpg",
+            "L\u00e4nge": "23,10 Meter",
+            "Breite": "6,00 Meter",
+            "Tiefgang": "1,60 Meter",
+            "Verdr\u00e4ngung": "80 Tonnen",
+            "Leistung": "2.700 PS",
+            "Geschwindigkeit": "23 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/231-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Bremerhaven",
+            "Seenotrettungs\u00adkreuzer": "HERMANN RUDOLF MEYER",
+            "Rufzeichen": "DBAC",
+            "Stammbesatzung": "9",
+            "Vormann": "Andreas Brensing",
+            "Liegeplatz": "Alter Vorhafen, H\u00f6he Lotsengeb\u00e4ude",
+            "Stationsgeb\u00e4ude": "im Lotsengeb\u00e4ude",
+            "calculated_depth": 4.6574883460998535
+        },
+        "basic_info": {
+            "boat": "Seenotrettungskreuzer HERMANN RUDOLF MEYER\nLiegeplatz: Alter Vorhafen, H\u00f6he Lotsengeb\u00e4ude\n27568 Bremerhaven",
+            "webpage": "https://www.seenotretter.de/index.php?id=405",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.555296,8.557602"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "9,41 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Fedderwardersiel",
+            "Seenotrettungs\u00adboot": "EMIL ZIMMERMANN",
+            "Rufzeichen": "DD 4662",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Karsten Ohme",
+            "Liegeplatz": "Hafen, Westseite",
+            "Stationsgeb\u00e4ude": "Hafen, Westseite",
+            "calculated_depth": -2.1959259510040283
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot EMIL ZIMMERMANN\nLiegeplatz: Hafen, Westseite\n26969 Fedderwardersiel",
+            "webpage": "https://www.seenotretter.de/index.php?id=682",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.597769,8.356399"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "8 Tonnen",
+            "Leistung": "380 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Wilhelmshaven",
+            "Seenotrettungs\u00adboot": "PETER HABIG",
+            "Rufzeichen": "DBAJ",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Stephan von Wecheln",
+            "Liegeplatz": "Fluthafen, Helgolandkaje",
+            "Stationsgeb\u00e4ude": "Fluthafen, Helgolandkaje",
+            "calculated_depth": -10.15158748626709
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=695",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.532953,8.156997"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "23,1-Meter-Seenotrettungs\u00adkreuzer mit Tochterboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/e/e/csm_23_1-m-Klasse_b9def99d93.jpg",
+            "L\u00e4nge": "23,10 Meter",
+            "Breite": "6,00 Meter",
+            "Tiefgang": "1,60 Meter",
+            "Verdr\u00e4ngung": "80,0 Tonnen",
+            "Leistung": "2.700 PS",
+            "Geschwindigkeit": "23 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/231-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Hooksiel",
+            "Seenotrettungs\u00adkreuzer": "BERNHARD GRUBEN",
+            "Rufzeichen": "DBBS",
+            "Stammbesatzung": "9",
+            "Vormann": "Dirk Hennesen",
+            "Liegeplatz": "Au\u00dfenhafen, Zufahrt \u00fcber B\u00e4derstra\u00dfe",
+            "Stationsgeb\u00e4ude": "Container am Liegeplatz",
+            "calculated_depth": -10
+        },
+        "basic_info": {
+            "boat": "Seenotrettungskreuzer BERNHARD GRUBEN\nLiegeplatz: Au\u00dfenhafen, Zufahrt \u00fcber B\u00e4derstra\u00dfe\n26434 Hooksiel",
+            "webpage": "https://www.seenotretter.de/index.php?id=694",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.643018,8.083303"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungs\u00adboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "8 Tonnen",
+            "Leistung": "380 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Juist",
+            "Seenotrettungs\u00adboot": "HANS DITTMER",
+            "Rufzeichen": "DK 7002",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Hauke Janssen-Visser",
+            "Liegeplatz": "Hafen, Nordkaje",
+            "Stationsgeb\u00e4ude": "Otto-Mann-Haus, Am Hafen",
+            "calculated_depth": -0.987500011920929
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot HANS DITTMER\nLiegeplatz: Hafen, Nordkaje\n26571 Juist",
+            "webpage": "https://www.seenotretter.de/index.php?id=425",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.674299,6.996493"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "20-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/1/e/csm_20-M-Seenotkr-Arbeitsboot_c421f630a0.jpg",
+            "L\u00e4nge": "19,90 Meter",
+            "Breite": "5,05 Meter",
+            "Tiefgang": "1,30 Meter",
+            "Verdr\u00e4ngung": "40 Tonnen",
+            "Leistung": "1.675 PS",
+            "Geschwindigkeit": "22 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/20-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Norderney",
+            "Seenotrettungs\u00adkreuzer": "EUGEN",
+            "Rufzeichen": "DBAV",
+            "Stammbesatzung": "9",
+            "Vormann": "Heiko Erdwiens",
+            "Liegeplatz": "Hafen",
+            "Stationsgeb\u00e4ude": "Am Hafen 9",
+            "calculated_depth": -2.6328232288360596
+        },
+        "basic_info": {
+            "boat": "Seenotrettungskreuzer EUGEN\nLiegeplatz: Hafen\n26548 Norderney",
+            "webpage": "https://www.seenotretter.de/index.php?id=713",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.702234,7.161515"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-Meter-Seenotrettungsboot ",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "9,41 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7,0 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Baltrum",
+            "Seenotrettungs\u00adboot": "ELLI HOFFMANN-R\u00d6SER",
+            "Rufzeichen": "DK 3090",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Harm Olchers",
+            "Liegeplatz": "Hafen",
+            "Stationsgeb\u00e4ude": "Haus Nr. 292",
+            "calculated_depth": -1.9300000667572021
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot ELLI HOFFMANN-R\u00d6SER\nLiegeplatz: Hafen\n26579 Baltrum",
+            "webpage": "https://www.seenotretter.de/index.php?id=402",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.723738,7.366402"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "8 Tonnen",
+            "Leistung": "380 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Langeoog",
+            "Seenotrettungs\u00adboot": "SECRETARIUS",
+            "Rufzeichen": "DD 9495",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Sven Klette",
+            "Liegeplatz": "Hafen",
+            "Stationsgeb\u00e4ude": "Hafendeichstra\u00dfe 2",
+            "calculated_depth": -1.6100000143051147
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot SECRETARIUS\nLiegeplatz: Hafen\n26465 Langeoog",
+            "webpage": "https://www.seenotretter.de/index.php?id=726",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.726809,7.494416"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,1 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "8 Tonnen",
+            "Leistung": "380 PS",
+            "Geschwindigkeit": "20 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Neuharlingersiel",
+            "Seenotrettungs\u00adboot": "COURAGE",
+            "Rufzeichen": "DBAI 2",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Heinz Steffens",
+            "Liegeplatz": "Fischereihafen, Westseite",
+            "Stationsgeb\u00e4ude": "Am Hafen West",
+            "calculated_depth": -10
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot COURAGE\nLiegeplatz:\nFischereihafen, Westseite\n26427 Neuharlingersiel",
+            "webpage": "https://www.seenotretter.de/index.php?id=717",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.701733,7.704607"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "8 Tonnen",
+            "Leistung": "380 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Wangerooge",
+            "Seenotrettungs\u00adboot": "FRITZ THIEME",
+            "Rufzeichen": "DA 6179",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Roger Riehl",
+            "Liegeplatz": "Hafen, Ponton am F\u00e4hranleger",
+            "Stationsgeb\u00e4ude": "im Erlengrund",
+            "calculated_depth": -3.700000047683716
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot FRITZ THIEME\nLiegeplatz: Hafen, Ponton am F\u00e4hranleger\n26486 Wangerooge",
+            "webpage": "https://www.seenotretter.de/index.php?id=698",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.776407,7.867933"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "46-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/2/b/csm_46-m-Klasse_ohne_WL_cc367e72c0.jpg",
+            "L\u00e4nge": "46,00 Meter",
+            "Breite": "10,66 Meter",
+            "Tiefgang": "2,80 Meter",
+            "Verdr\u00e4ngung": "404 Tonnen",
+            "Leistung": "9.250 PS",
+            "Geschwindigkeit": "25 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/46-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Deutsche Bucht/Helgoland",
+            "Seenotrettungs\u00adkreuzer": "HERMANN MARWEDE",
+            "Rufzeichen": "DBAR",
+            "Stammbesatzung": "16",
+            "Vormann": "Thilo Heinze",
+            "Liegeplatz": "S\u00fcdhafen/Ostdamm",
+            "Stationsgeb\u00e4ude": "S\u00fcdhafen/Westkaje",
+            "calculated_depth": -5.356831073760986
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=691",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.175494,7.896189"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "8 Tonnen",
+            "Leistung": "380 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Horumersiel",
+            "Seenotrettungs\u00adboot": "WOLFGANG PAUL LORENZ",
+            "Rufzeichen": "DBKT",
+            "Besatzung": "Freiwillige",
+            "Vormann": "G\u00fcnter Ihnken",
+            "Liegeplatz": "Hafen Wangersiel, Ponton an der S\u00fcdseite",
+            "Stationsgeb\u00e4ude": "Hafen Wangersiel",
+            "calculated_depth": -10
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot WOLFGANG PAUL LORENZ\nLiegeplatz: Hafen, Wangersiel, Ponton an der S\u00fcdseite\n26434 Horumersiel",
+            "webpage": "https://www.seenotretter.de/index.php?id=725",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.683941,8.020482"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "20-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/1/e/csm_20-M-Seenotkr-Arbeitsboot_c421f630a0.jpg",
+            "L\u00e4nge": "19,90 Meter",
+            "Breite": "5,05 Meter",
+            "Tiefgang": "1,30 Meter",
+            "Verdr\u00e4ngung": "40 Tonnen",
+            "Leistung": "1.675 PS",
+            "Geschwindigkeit": "22 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/20-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station B\u00fcsum",
+            "Seenotrettungs\u00adkreuzer": "THEODOR STORM",
+            "Rufzeichen": "DBAI",
+            "Stammbesatzung": "7",
+            "Vormann": "J\u00f6rg L\u00fcdtke",
+            "Liegeplatz": "Hafen-Westseite / Badestrand, nahe der Schleuse",
+            "Stationsgeb\u00e4ude": "Am Museumshafen 21",
+            "calculated_depth": -0.1753004640340805
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=670",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.123103,8.857694"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Eiderdamm",
+            "Seenotrettungs\u00adboot": "PAUL NEISSE",
+            "Rufzeichen": "DJ 5386",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Matthias Claussen",
+            "Liegeplatz": "Eidersperrwerk, Binnenhafen",
+            "Stationsgeb\u00e4ude": "Eidersperrwerk, Binnenhafen",
+            "calculated_depth": -4.171005725860596
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=685",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.265856,8.84707"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "20-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/1/e/csm_20-M-Seenotkr-Arbeitsboot_c421f630a0.jpg",
+            "L\u00e4nge": "19,90 Meter",
+            "Breite": "5,05 Meter",
+            "Tiefgang": "1,30 Meter",
+            "Verdr\u00e4ngung": "40 Tonnen",
+            "Leistung": "1.675 PS",
+            "Geschwindigkeit": "22 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/20-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Nordstrand",
+            "Seenotrettungs\u00adkreuzer": "EISWETTE",
+            "Rufzeichen": "DBAB",
+            "Stammbesatzung": "7",
+            "Vormann": "Chris Erbacher",
+            "Liegeplatz": "Hafen Strucklahnungsh\u00f6rn, am F\u00e4hranleger nach Pellworm",
+            "Stationsgeb\u00e4ude": "H\u00f6rnstra\u00dfe 3",
+            "calculated_depth": -1.161969780921936
+        },
+        "basic_info": {
+            "boat": "Seenotrettungskreuzer EISWETTE\nLiegeplatz: Hafen Strucklahnungsh\u00f6rn, am F\u00e4hranleger nach Pellworm\n25845 Nordstrand",
+            "webpage": "https://www.seenotretter.de/index.php?id=712",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.49759,8.806993"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "8 Tonnen",
+            "Leistung": "380 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Norddeich",
+            "Seenotrettungs\u00adboot": "OTTO DIERSCH",
+            "Rufzeichen": "DBKX",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Alexander Klingenborg",
+            "Liegeplatz": "Westhafen",
+            "Stationsgeb\u00e4ude": "Westhafen",
+            "calculated_depth": -10
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot OTTO DIERSCH\nLiegeplatz: Westhafen\n26506 Norddeich\n\nhttps://www.seenotretter.de/wer-wir-sind/teams-stationen/ansicht/station/norddeich/",
+            "webpage": "https://www.seenotretter.de/index.php?id=715",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.621395,7.156078"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "28-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/e/c/csm_28-m-Klasse_c2a0b1e119.jpg",
+            "L\u00e4nge": "27,90 Meter",
+            "Breite": "6,20 Meter",
+            "Tiefgang": "1,95 Meter",
+            "Verdr\u00e4ngung": "120 Tonnen",
+            "Leistung": "3.916 PS",
+            "Geschwindigkeit": "24 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/28-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Amrum",
+            "Seenotrettungs\u00adkreuzer": "ERNST MEIER-HEDDE",
+            "Rufzeichen": "DBAQ",
+            "Stammbesatzung": "9",
+            "Vormann": "Sven Witzke",
+            "Liegeplatz": "Seezeichenhafen Wittd\u00fcn",
+            "Stationsgeb\u00e4ude": "Zum Tonnenhafen",
+            "calculated_depth": -0.40081101655960083
+        },
+        "basic_info": {
+            "boat": "Seenotrettungskreuzer ERNST MEIER-HEDDE\nLiegeplatz: Seezeichenhafen Wittd\u00fcn\n25946 Amrum",
+            "webpage": "https://www.seenotretter.de/index.php?id=680",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.632186,8.381289"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station H\u00f6rnum",
+            "Seenotrettungs\u00adboot": "HORST HEINER KNETEN",
+            "Rufzeichen": "DH 2306",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Michael Petersen",
+            "Liegeplatz": "Ponton, Westkaje",
+            "Stationsgeb\u00e4ude": "Am Kai (Hafenamt)",
+            "calculated_depth": -0.6583021879196167
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot HORST HEINER KNETEN\nLiegeplatz: Ponton, Westkaje\n25980 H\u00f6rnum",
+            "webpage": "https://www.seenotretter.de/index.php?id=696",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.759226,8.29476"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "20-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/1/e/csm_20-M-Seenotkr-Arbeitsboot_c421f630a0.jpg",
+            "L\u00e4nge": "19,90 Meter",
+            "Breite": "5,05 Meter",
+            "Tiefgang": "1,30 Meter",
+            "Verdr\u00e4ngung": "40 Tonnen",
+            "Leistung": "1.675 PS",
+            "Geschwindigkeit": "22 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/20-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station List",
+            "Seenotrettungs\u00adkreuzer": "PIDDER L\u00dcNG",
+            "Rufzeichen": "DBAP",
+            "Stammbesatzung": "7",
+            "Vormann": "Christian Koprek-Bremer",
+            "Liegeplatz": "Hafen, S\u00fcdmole",
+            "Stationsgeb\u00e4ude": "Bernhard-K\u00f6hn-Haus, Am F\u00e4hranleger 1",
+            "calculated_depth": -9.997099876403809
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=719",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=55.016323,8.44047"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungs\u00adboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "9,41 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Langballigau",
+            "Seenotrettungs\u00adboot": "WERNER KUNTZE",
+            "Rufzeichen": "DD 4639",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Oliver Bohn",
+            "Liegeplatz": "Hafens\u00fcdseite, Anlegebr\u00fccke",
+            "Stationsgeb\u00e4ude": "Strandweg 1a",
+            "calculated_depth": -2.2340569496154785
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=428",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.82131,9.653734"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "8 Tonnen",
+            "Leistung": "380 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Gelting",
+            "Seenotrettungs\u00adboot": "URSULA DETTMANN",
+            "Rufzeichen": "DD 4353",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Thilo Heinze",
+            "Liegeplatz": "Sportboothafen Gelting-Mole",
+            "Stationsgeb\u00e4ude": "Ohrfeld 2",
+            "calculated_depth": -1.7455132007598877
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=690",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.75251,9.863181"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "20-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/1/e/csm_20-M-Seenotkr-Arbeitsboot_c421f630a0.jpg",
+            "L\u00e4nge": "19,90 Meter",
+            "Breite": "5,05 Meter",
+            "Tiefgang": "1,30 Meter",
+            "Verdr\u00e4ngung": "40 Tonnen",
+            "Leistung": "1.618 PS",
+            "Geschwindigkeit": "22 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/20-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Olpenitz",
+            "Seenotrettungs\u00adkreuzer": "FRITZ KNACK",
+            "Rufzeichen": "DBAO",
+            "Stammbesatzung": "7",
+            "Vormann": "Dirk H\u00f6per",
+            "Liegeplatz": "Yachthafen Olpenitz",
+            "Stationsgeb\u00e4ude": "Hafenpromenade 8e",
+            "calculated_depth": -7.1034722328186035
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=711",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.661264,10.019623"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "8,9-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/3/9/csm_8_9-M-Rettungsboot_ohne_WL_a2a27dca70.jpg",
+            "L\u00e4nge": "8,90 Meter",
+            "Breite": "3,10 Meter",
+            "Tiefgang": "0,88 Meter",
+            "Verdr\u00e4ngung": "3,2 Tonnen",
+            "Leistung": "1.618 PS",
+            "Geschwindigkeit": "38 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/89-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Maasholm",
+            "Seenotrettungs\u00adboot": "HELLMUT MANTHEY",
+            "Rufzeichen": "DK 3849",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Steffen Ottsen",
+            "Liegeplatz": "Fischereihafen, Schumacherbr\u00fccke",
+            "Stationsgeb\u00e4ude": "Hauptstra\u00dfe 43",
+            "calculated_depth": -3.0824337005615234
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=718",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.681906,9.990839"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "8 Tonnen",
+            "Leistung": "380 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Damp",
+            "Seenotrettungs\u00adboot": "NIMANOA",
+            "Rufzeichen": "DA 6180",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Anna M\u00fcnch",
+            "Liegeplatz": "Niebymole, Hafens\u00fcdseite",
+            "Stationsgeb\u00e4ude": "Niebymole 1",
+            "calculated_depth": -2.5149903297424316
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=675",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.582099,10.025939"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "9,41 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Eckernf\u00f6rde",
+            "Seenotrettungs\u00adboot": "ECKERNF\u00d6RDE",
+            "Rufzeichen": "DK 3088",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Horst Egerland",
+            "Liegeplatz": "Stadthafen, an der Holzbr\u00fccke",
+            "Stationsgeb\u00e4ude": "Vogelsang 13",
+            "calculated_depth": -5.580233573913574
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=687",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.475084,9.835433"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "8,9-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/3/9/csm_8_9-M-Rettungsboot_ohne_WL_a2a27dca70.jpg",
+            "L\u00e4nge": "8,90 Meter",
+            "Breite": "3,10 Meter",
+            "Tiefgang": "0,88 Meter",
+            "Verdr\u00e4ngung": "3,2 Tonnen",
+            "Leistung": "400 PS",
+            "Geschwindigkeit": "38 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/89-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Schleswig",
+            "Seenotrettungs\u00adboot": "HERWIL G\u00d6TSCH",
+            "Rufzeichen": "DBAC2",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Frank Tapper",
+            "Liegeplatz": "Stadthafen, Am Hafen 5",
+            "Stationsgeb\u00e4ude": "Knud-Laward-Stra\u00dfe 8",
+            "calculated_depth": -0.8034385442733765
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot HERWIL G\u00d6TSCH\nLiegeplatz: Stadthafen, Am Hafen 5\n24837 Schleswig",
+            "webpage": "https://www.seenotretter.de/index.php?id=704",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.51212,9.572177"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "8,9-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/3/9/csm_8_9-M-Rettungsboot_ohne_WL_a2a27dca70.jpg",
+            "L\u00e4nge": "8,90 Meter",
+            "Breite": "3,10 Meter",
+            "Tiefgang": "0,88 Meter",
+            "Verdr\u00e4ngung": "3,2 Tonnen",
+            "Leistung": "400 PS",
+            "Geschwindigkeit": "38 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/89-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Schilksee",
+            "Seenotrettungs\u00adboot": "SRB 86",
+            "Rufzeichen": "DBAK 2",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Marek Przybilla",
+            "Liegeplatz": "Olympiahafen, Sporthafen Nord, Steg 1",
+            "Stationsgeb\u00e4ude": "Olympiahafen Nord, Soling 5",
+            "calculated_depth": -3.741483449935913
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=705",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.430328,10.172335"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "28-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/b/f/csm_28-m-Klasse_ohne_WL_ee3e48273c.jpg",
+            "L\u00e4nge": "27,90 Meter",
+            "Breite": "6,20 Meter",
+            "Tiefgang": "1,95 Meter",
+            "Verdr\u00e4ngung": "120 Tonnen",
+            "Leistung": "3.916 PS",
+            "Geschwindigkeit": "24 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/28-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Laboe",
+            "Seenotrettungs\u00adkreuzer": "BERLIN",
+            "Rufzeichen": "DBAH",
+            "Stammbesatzung": "9",
+            "Vormann": "Uwe Radloff",
+            "Liegeplatz": "Fischereihafen, S\u00fcdmole",
+            "Stationsgeb\u00e4ude": "Hafenstra\u00dfe",
+            "calculated_depth": -3.514437437057495
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=714",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.403465,10.216943"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "9,41 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Lippe/Wei\u00dfenhaus",
+            "Seenotrettungs\u00adboot": "WOLTERA",
+            "Rufzeichen": "DG 7348",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Bj\u00f6rn Hagge",
+            "Liegeplatz": "Alter Hafen, Nordseite",
+            "Stationsgeb\u00e4ude": "Container am Liegeplatz",
+            "calculated_depth": -2.252098321914673
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=720",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.335837,10.646733"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "9,41 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Heiligenhafen",
+            "Seenotrettungs\u00adboot": "HEILIGENHAFEN",
+            "Rufzeichen": "DD 4988",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Frank Lietzow",
+            "Liegeplatz": "Kommunalhafen, Nordseite",
+            "Stationsgeb\u00e4ude": "Kommunalhafen, Nordseite",
+            "calculated_depth": -3.094810724258423
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot HEILIGENHAFEN\nLiegeplatz: Kommunalhafen, Nordseite\n23774 Heiligenhafen",
+            "webpage": "https://www.seenotretter.de/index.php?id=678",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.37391,10.985117"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "27,5-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/0/5/csm_27_5-m-Klasse_ohne_WL_e13306cf20.jpg",
+            "L\u00e4nge": "28,20 Meter",
+            "Breite": "6,53 Meter",
+            "Tiefgang": "2,10 Meter",
+            "Verdr\u00e4ngung": "103 Tonnen",
+            "Leistung": "3.402 PS",
+            "Geschwindigkeit": "23 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/275-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Gro\u00dfenbrode",
+            "Seenotrettungs\u00adkreuzer": "BREMEN",
+            "Rufzeichen": "DBAS",
+            "Stammbesatzung": "9",
+            "Vormann": "Sven-Eric Carl",
+            "Liegeplatz": "Becken des ehemaligen Marinehafens / fr\u00fcherer F\u00e4hranleger",
+            "Stationsgeb\u00e4ude": "Am Kai 27",
+            "calculated_depth": -2.0968427658081055
+        },
+        "basic_info": {
+            "boat": "Seenotrettungskreuzer BREMEN\n\nLiegeplatz: Becken des ehemaligen Marinehafens, fr\u00fcherer F\u00e4hranleger\n23775 Fehmarn/Gro\u00dfenbrode",
+            "webpage": "https://www.seenotretter.de/index.php?id=677",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.354338,11.077341"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "8,5-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/3/d/csm_8_5-m-Klasse_ohne_WL_d29b8ea8f7.jpg",
+            "L\u00e4nge": "8,52 Meter",
+            "Breite": "3,10 Meter",
+            "Tiefgang": "0,95 Meter",
+            "Verdr\u00e4ngung": "5,5 Tonnen",
+            "Leistung": "215 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/85-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Fehmarn",
+            "Seenotrettungs\u00adboot": "GERHARD TEN DOORNKAAT",
+            "Rufzeichen": "DH 3768",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Arne Fr\u00f6se",
+            "Liegeplatz": "Hafen Burgstaaken",
+            "Stationsgeb\u00e4ude": "ehem. Unterkunft der Wasserschutzpolizei und zwei Container (am Liegeplatz Puttgarden)",
+            "calculated_depth": -0.7068989276885986
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot ROMY FRANK und GERHARD TEN DOORNKAAT\nLiegeplatz: Bootshafen des F\u00e4hrhafens, Sicherheitsbereich\n23769 Puttgarden",
+            "webpage": "https://www.seenotretter.de/index.php?id=707",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.501674,11.229739"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "28-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/b/f/csm_28-m-Klasse_ohne_WL_ee3e48273c.jpg",
+            "L\u00e4nge": "27,90 Meter",
+            "Breite": "6,20 Meter",
+            "Tiefgang": "1,95 Meter",
+            "Verdr\u00e4ngung": "120 Tonnen",
+            "Leistung": "3.916 PS",
+            "Geschwindigkeit": "24 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/28-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Gr\u00f6mitz",
+            "Seenotrettungs\u00adkreuzer": "FELIX SAND",
+            "Rufzeichen": "DBAA2",
+            "Stammbesatzung": "9",
+            "Vormann": "Markus Davids",
+            "Liegeplatz": "Yachthafen Gr\u00f6mitz, Steg 6",
+            "Stationsgeb\u00e4ude": "Jachthafen 12",
+            "calculated_depth": -2.822160243988037
+        },
+        "basic_info": {
+            "boat": "Seenotrettungskreuzer FELIX SAND\nLiegeplatz: Yachthafen Gr\u00f6mitz, Steg 6\n23743 Gr\u00f6mitz",
+            "webpage": "https://www.seenotretter.de/index.php?id=679",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.135454,10.948363"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "9,41 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "380 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Neustadt",
+            "Seenotrettungs\u00adboot": "HENRICH WUPPESAHL",
+            "Rufzeichen": "DK 8116",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Jan Guttau",
+            "Liegeplatz": "Stadthafen-Ostseite, Unterer Jungfernstieg, Steg B",
+            "Stationsgeb\u00e4ude": "Heisterbusch 46a",
+            "calculated_depth": -1.4465264081954956
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot HENRICH WUPPESAHL\nLiegeplatz: Stadthafen-Ostseite, Unterer Jungfernstieg, Steg B\n23730 Neustadt",
+            "webpage": "https://www.seenotretter.de/index.php?id=716",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.098732,10.814956"
+        }
+    },
+    {
+        "ship_info": {},
+        "station_info": {},
+        "basic_info": {
+            "boat": "Ausbildungsfahrzeuge: CASPER OTTEN, MERVI, WALTER ROSE und JAX\nLiegeplatz: Marinehafen\n23730 Neustadt Ausbildungsstation",
+            "webpage": "https://www.seenotretter.de/index.php?id=448",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.102973,10.806008"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "8 Tonnen",
+            "Leistung": "380 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Travem\u00fcnde",
+            "Seenotrettungs\u00adboot": "ERICH KOSCHUBS",
+            "Rufzeichen": "DBAF",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Patrick Morgenroth",
+            "Liegeplatz": "an der Lotsenstation / Travepromenade",
+            "Stationsgeb\u00e4ude": "Am Leuchtenfeld 6",
+            "calculated_depth": -1.044811487197876
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot ERICH KOSCHUBS\nLiegeplatz: an der Lotsenstation, Leuchtenfeld/Travepromenade\n23570 Travem\u00fcnde",
+            "webpage": "https://www.seenotretter.de/index.php?id=701",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.96047,10.883295"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "8 Tonnen",
+            "Leistung": "380 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Timmendorf/Poel",
+            "Seenotrettungs\u00adboot": "WOLFGANG WIESE",
+            "Rufzeichen": "DH 3207",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Thomas Lietz",
+            "Liegeplatz": "Insel Poel, Timmendorf-Strand, Lotsenbr\u00fccke",
+            "Stationsgeb\u00e4ude": "Lotsenstieg 20",
+            "calculated_depth": -1.540530800819397
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot WOLFGANG WIESE\nLiegeplatz: Insel Poel, Timmendorf-Strand, Lotsenbr\u00fccke\n23999 Timmendorf/Poel",
+            "webpage": "https://www.seenotretter.de/index.php?id=702",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.991603,11.375092"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station K\u00fchlungsborn",
+            "Seenotrettungs\u00adboot": "KONRAD-OTTO",
+            "Ruf\u00adzeichen": "DH 2558",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Rainer Kulack",
+            "Liegeplatz": "Ortsteil Ost, Bootshafen, Steg A",
+            "Stationsgeb\u00e4ude": "Ortsteil West, Ostseeallee",
+            "calculated_depth": -3.3858730792999268
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot KONRAD-OTTO\nLiegeplatz: OT Ost, Bootshafen, Steg A\n18225 K\u00fchlungsborn",
+            "webpage": "https://www.seenotretter.de/index.php?id=724",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.153583,11.772385"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "27,5-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/0/5/csm_27_5-m-Klasse_ohne_WL_e13306cf20.jpg",
+            "L\u00e4nge": "28,20 Meter",
+            "Breite": "6,53 Meter",
+            "Tiefgang": "2,10 Meter",
+            "Verdr\u00e4ngung": "103 Tonnen",
+            "Leistung": "3.402 PS",
+            "Geschwindigkeit": "23 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/275-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Warnem\u00fcnde",
+            "Seenotrettungs\u00adkreuzer": "ARKONA",
+            "Rufzeichen": "DBAD",
+            "Stammbesatzung": "9",
+            "Vormann": "Mario Lange",
+            "Liegeplatz": "Alter Strom, Westseite, H\u00f6he Nr. 120",
+            "Stationsgeb\u00e4ude": "Mittelmole",
+            "calculated_depth": -5.112708568572998
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=697",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.181492,12.087055"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "7-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/a/8/csm_7-m-Klasse_ohne_WL_0944780529.jpg",
+            "L\u00e4nge": "7,00 Meter",
+            "Breite": "2,50 Meter",
+            "Tiefgang": "0,50 Meter",
+            "Verdr\u00e4ngung": "3,5 Tonnen",
+            "Leistung": "292 PS (Jet)",
+            "Geschwindigkeit": "24 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/7-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Wustrow",
+            "Seenotrettungs\u00adboot": "BARSCH",
+            "Rufzeichen": "DH 3784",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Conrad Buchholz",
+            "Stationsgeb\u00e4ude": "Strandstra\u00dfe 48/An der Seenotstation (Boot auf Trailer)",
+            "calculated_depth": -10
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=693",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.351649,12.388086"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "28-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/b/f/csm_28-m-Klasse_ohne_WL_ee3e48273c.jpg",
+            "L\u00e4nge": "27,90 Meter",
+            "Breite": "6,20 Meter",
+            "Tiefgang": "1,95 Meter",
+            "Verdr\u00e4ngung": "120 Tonnen",
+            "Leistung": "3.916 PS",
+            "Geschwindigkeit": "24 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/28-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Dar\u00dfer Ort/Prerow",
+            "Seenotrettungs\u00adkreuzer": "NIS RANDERS",
+            "Rufzeichen": "DBAE2",
+            "Stammbesatzung": "9",
+            "Vormann": "Frank Michael Weinhold",
+            "Liegeplatz": "Nothafen Dar\u00dfer Ort",
+            "Stationsgeb\u00e4ude": "Container am Liegeplatz",
+            "calculated_depth": -5.245159149169922
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=689",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.471045,12.523142"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "8,9-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/3/9/csm_8_9-M-Rettungsboot_ohne_WL_a2a27dca70.jpg",
+            "L\u00e4nge": "8,90 Meter",
+            "Breite": "3,10 Meter",
+            "Tiefgang": "0,88 Meter",
+            "Verdr\u00e4ngung": "3,2 Tonnen",
+            "Leistung": "400 PS",
+            "Geschwindigkeit": "38 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/89-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Prerow/Wieck",
+            "Seenotrettungs\u00adboot": "PUG",
+            "Rufzeichen": "DBAF2",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Jens Pagel",
+            "Liegeplatz": "Wasserwanderrastplatz Wieck am Dar\u00df",
+            "Stationsgeb\u00e4ude": "K\u00fcsters Allee, Prerow",
+            "calculated_depth": -1.4588831663131714
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=710",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.408195,12.59306"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "7-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/a/8/csm_7-m-Klasse_ohne_WL_0944780529.jpg",
+            "L\u00e4nge": "7,00 Meter",
+            "Breite": "2,50 Meter",
+            "Tiefgang": "0,50 Meter",
+            "Verdr\u00e4ngung": "3,5 Tonnen",
+            "Leistung": "292 PS (Jet)",
+            "Geschwindigkeit": "24 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/7-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Zingst",
+            "Seenotrettungs\u00adboot": "ZANDER",
+            "Rufzeichen": "DH 3782",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Remo Niche",
+            "Stationsgeb\u00e4ude": "M\u00fcggenburger Weg/Ecke H\u00e4gerende (Boot auf Trailer)",
+            "calculated_depth": -10
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=692",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.439237,12.702266"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Vitte/Hiddensee",
+            "Seenotrettungs\u00adboot": "NAUSIKAA",
+            "Rufzeichen": "DH 2356",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Carsten Berlin",
+            "Liegeplatz": "Hafen-Nordseite, Achtern Diek",
+            "Stationsgeb\u00e4ude": "Hafen-Nordseite, Achtern Diek",
+            "calculated_depth": -2.6724746227264404
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=699",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.56875,13.107031"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "8,9-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/3/9/csm_8_9-M-Rettungsboot_ohne_WL_a2a27dca70.jpg",
+            "L\u00e4nge": "8,90 Meter",
+            "Breite": "3,10 Meter",
+            "Tiefgang": "0,88 Meter",
+            "Verdr\u00e4ngung": "3,2 Tonnen",
+            "Leistung": "400 PS",
+            "Geschwindigkeit": "38 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/89-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Breege",
+            "Seenotrettungs\u00adboot": "MANFRED HESSD\u00d6RFER",
+            "Rufzeichen": "DBBL",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Uwe Repenning",
+            "Liegeplatz": "Wasserwanderrastplatz Breege",
+            "Stationsgeb\u00e4ude": "Dorfstra\u00dfe",
+            "calculated_depth": -1.4334421157836914
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot MANFRED HESSD\u00d6RFER\nLiegeplatz: Wasserwanderrastplatz\n18556 Breege",
+            "webpage": "https://www.seenotretter.de/index.php?id=672",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.613066,13.356561"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Glowe",
+            "Seenotrettungs\u00adboot": "KURT HOFFMANN",
+            "Rufzeichen": "DB 3015",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Gerd Hasselberg",
+            "Liegeplatz": "Wasserwanderrastplatz am K\u00f6nigsh\u00f6rn, Ponton an der S\u00fcdmole",
+            "Stationsgeb\u00e4ude": "auf dem Ponton",
+            "calculated_depth": -1.6670799255371094
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot KURT HOFFMANN\nLiegeplatz: Wasserwanderrastplatz am K\u00f6nigshorn, Ponton an der S\u00fcdmole\n18551 Glowe",
+            "webpage": "https://www.seenotretter.de/index.php?id=681",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.573458,13.468659"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "36,5-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/8/csm_36_5-m-Klasse_oTB_ohne_WL_6212e8173d.jpg",
+            "L\u00e4nge": "36,45 Meter",
+            "Breite": "8,20 Meter",
+            "Tiefgang": "2,70 Meter",
+            "Verdr\u00e4ngung": "220 Tonnen",
+            "Leistung": "6.508 PS",
+            "Geschwindigkeit": "25 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/365-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Sassnitz",
+            "Seenotrettungs\u00adkreuzer": "HARRO KOEBKE",
+            "Rufzeichen": "DBAK",
+            "Stammbesatzung": "11",
+            "Vormann": "Andreas Schumacher",
+            "Liegeplatz": "Stadthafen, Westmole",
+            "Stationsgeb\u00e4ude": "Stra\u00dfe der Jugend 10c",
+            "calculated_depth": -1.6254920959472656
+        },
+        "basic_info": {
+            "boat": "Seenotrettungskreuzer HARRO KOEBKE\nLiegeplatz: Stadthafen, Westmole, Zufahrt Stra\u00dfe der Jugend\n18546 Sassnitz",
+            "webpage": "https://www.seenotretter.de/index.php?id=706",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.508819,13.634743"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "10,10 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "8 Tonnen",
+            "Leistung": "380 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Lauterbach",
+            "Seenotrettungs\u00adboot": "GERHARD ELSNER",
+            "Rufzeichen": "DH 5366",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Andreas Jahn",
+            "Liegeplatz": "Kommunalhafen, Fischerbr\u00fccke",
+            "Stationsgeb\u00e4ude": "Hafenwestseite",
+            "calculated_depth": -2.328822135925293
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot GERHARD ELSNER\nLiegeplatz: Kommunalhafen, Fischerbr\u00fccke\n18581 Lauterbach",
+            "webpage": "https://www.seenotretter.de/index.php?id=721",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.342614,13.50065"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "9,41 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Stralsund",
+            "Seenotrettungs\u00adboot": "HERTHA JEEP",
+            "Rufzeichen": "DD 4564",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Joachim Venghaus",
+            "Liegeplatz": "Stadthafen, Hafenamt/Lotsenturm",
+            "Stationsgeb\u00e4ude": "Am Querkanal",
+            "calculated_depth": -4.131040096282959
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot HERTHA JEEP\nLiegeplatz: Stadthafen, Hafenamt/Lotsenturm\n18437 Stralsund",
+            "webpage": "https://www.seenotretter.de/index.php?id=703",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.315464,13.098515"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "20-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/1/e/csm_20-M-Seenotkr-Arbeitsboot_c421f630a0.jpg",
+            "L\u00e4nge": "19,90 Meter",
+            "Breite": "5,05 Meter",
+            "Tiefgang": "1,30 Meter",
+            "Verdr\u00e4ngung": "40 Tonnen",
+            "Leistung": "1.675 PS",
+            "Geschwindigkeit": "22 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/20-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Greifswalder Oie",
+            "Seenotrettungs\u00adkreuzer": "BERTHOLD BEITZ",
+            "Rufzeichen": "DBAE",
+            "Stammbesatzung": "7",
+            "Vormann": "Jean Frenzel",
+            "Liegeplatz": "Nothafen Greifswalder Oie",
+            "Stationsgeb\u00e4ude": "am Weg zum Leuchtturm",
+            "calculated_depth": -0.9605432748794556
+        },
+        "basic_info": {
+            "boat": "Greifswalder Oie\nSeenotrettungskreuzer BERTHOLD BEITZ\nLiegeplatz: Nothafen Greifswalder Oie\n17440 Greifswalder Oie",
+            "webpage": "https://www.seenotretter.de/index.php?id=684",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.242344,13.909542"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "9,41 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Freest",
+            "Seenotrettungs\u00adboot": "HEINZ ORTH",
+            "Rufzeichen": "DD 4654",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Henry Sch\u00f6nrock",
+            "Liegeplatz": "Fischereihafen, Nordmole",
+            "Stationsgeb\u00e4ude": "Fischereihafen, Nordmole",
+            "calculated_depth": -3.717500925064087
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot HEINZ ORTH\nLiegeplatz: Fischereihafen, Nordmole\n17440 Freest",
+            "webpage": "https://www.seenotretter.de/index.php?id=683",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.137863,13.729663"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "8,5-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/3/d/csm_8_5-m-Klasse_ohne_WL_d29b8ea8f7.jpg",
+            "L\u00e4nge": "8,52 Meter",
+            "Breite": "3,10 Meter",
+            "Tiefgang": "0,95 Meter",
+            "Verdr\u00e4ngung": "5,5 Tonnen",
+            "Leistung": "292 PS (Jet)",
+            "Geschwindigkeit": "18,0 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/85-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Zinnowitz",
+            "Seenotrettungs\u00adboote": "HECHT und OTTO BEHR",
+            "Rufzeichen": "DH 3783",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Michael Hackenschmid",
+            "Stationsgeb\u00e4ude": "D\u00fcnenstra\u00dfe/Ecke Neue Strandstra\u00dfe (Boot auf Trailer)",
+            "calculated_depth": -10
+        },
+        "basic_info": {
+            "boat": "Seenotrettungsboot HECHT und OTTO BEHR\nStationsgeb\u00e4ude: D\u00fcnenstra\u00dfe/Ecke Neue Strandstra\u00dfe\n17454 Zinnowitz",
+            "webpage": "https://www.seenotretter.de/index.php?id=686",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=54.080396,13.912955"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "9,5-/10,1-Meter-Seenotrettungsboot",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/6/2/csm_9_5-10_1-m-Klasse_ohne_WL_c177a6052d.jpg",
+            "L\u00e4nge": "9,41 Meter",
+            "Breite": "3,61 Meter",
+            "Tiefgang": "0,96 Meter",
+            "Verdr\u00e4ngung": "7 Tonnen",
+            "Leistung": "320 PS",
+            "Geschwindigkeit": "18 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/95-101-meter-seenotrettungsboot"
+        },
+        "station_info": {
+            "station_name": "Station Ueckerm\u00fcnde",
+            "Seenotrettungsboot": "EVA AHRENS-THIES",
+            "Rufzeichen": "DD 4980",
+            "Besatzung": "Freiwillige",
+            "Vormann": "Christopher Zabel",
+            "Liegeplatz": "Am Kamigkrug",
+            "Stationsgeb\u00e4ude": "Am Kamigkrug",
+            "Seenotrettungs\u00adboot": "NEUHARLINGERSIEL",
+            "calculated_depth": -4.147299766540527
+        },
+        "basic_info": {
+            "boat": "",
+            "webpage": "https://www.seenotretter.de/index.php?id=700",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.750375,14.066439"
+        }
+    },
+    {
+        "ship_info": {
+            "ship_class": "28-Meter-Seenotrettungskreuzer",
+            "image": "https://www.seenotretter.de/fileadmin/_processed_/e/c/csm_28-m-Klasse_c2a0b1e119.jpg",
+            "L\u00e4nge": "27,90 Meter",
+            "Breite": "6,20 Meter",
+            "Tiefgang": "1,95 Meter",
+            "Verdr\u00e4ngung": "120 Tonnen",
+            "Leistung": "3.916 PS",
+            "Geschwindigkeit": "24 Knoten",
+            "further_link": "https://www.seenotretter.de/crews-stationen/rettungsflotte/28-meter-seenotrettungskreuzer"
+        },
+        "station_info": {
+            "station_name": "Station Borkum",
+            "Seenotrettungs\u00adkreuzer": "HAMBURG",
+            "Rufzeichen": "DBAU",
+            "Stammbesatzung": "9",
+            "Vormann": "Ralf Brinker",
+            "Liegeplatz": "Schutzhafen Borkum, Br\u00fccke II",
+            "Stationsgeb\u00e4ude": "Am Neuen Hafen",
+            "calculated_depth": -5.772500038146973
+        },
+        "basic_info": {
+            "boat": "Seenotrettungskreuzer HAMBURG\nLiegeplatz: Schutzhafen Borkum, Br\u00fccke 2\n26757 Borkum",
+            "webpage": "https://www.seenotretter.de/index.php?id=676",
+            "location": "https://www.google.com/maps/dir/?api=1&destination=53.560748,6.748114"
+        }
+    }
+]

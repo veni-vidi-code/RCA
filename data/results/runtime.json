@@ -1,0 +1,3756 @@
+[
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 1,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 4427.533709229901,
+    "solvetime": 4125.975867033005,
+    "result": 0.16915791639542696,
+    "compare_value": 256.7384618616407,
+    "reduced_to_zones": 1,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 4125.975867033005,
+      "Work": 1251.9788591937195,
+      "ObjVal": 0.16915791639542696,
+      "ObjBound": 0.16915791639542696,
+      "ObjBoundC": 0.16915791639542696,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 169961,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 3,
+      "PoolObjBound": 0.16915791639542696,
+      "PoolObjVal": [
+        0.16915791639542696,
+        0.527447582711212,
+        0.9304812613427969
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 1,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21647.20173248602,
+    "solvetime": 21600.211395025253,
+    "result": -1,
+    "compare_value": 191.3629501939999,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.211395025253,
+      "Work": 14033.664595029166,
+      "ObjVal": 1.661312798394339,
+      "ObjBound": 1.0253618529977402,
+      "ObjBoundC": 1.0253618529977402,
+      "MIPGap": 0.38280024448812183,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 579347,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 1.0253618529977402,
+      "PoolObjVal": [
+        1.661312798394339,
+        1.6613142613948473,
+        1.662019008006947,
+        1.6621093169865704,
+        1.6857020837480077,
+        1.7205504101055653,
+        1.9770481762902161,
+        2.397608953484295,
+        4.375800300243943,
+        4.471793157703417
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 1,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 4956.498353367206,
+    "solvetime": 4945.888221025467,
+    "result": 1.0797456138891708,
+    "compare_value": 158.33670636765135,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 4945.888221025467,
+      "Work": 3342.9786075151205,
+      "ObjVal": 1.0797456138891708,
+      "ObjBound": 1.0797456138891706,
+      "ObjBoundC": 1.0797456138891706,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 728252,
+      "BarIterCount": 0,
+      "NodeCount": 512,
+      "SolCount": 10,
+      "PoolObjBound": 1.0797456138891706,
+      "PoolObjVal": [
+        1.0797456138891708,
+        1.1338033929617897,
+        1.1338070218896736,
+        1.1338108096179522,
+        1.134348178243116,
+        1.1830871015273219,
+        1.1830899575286575,
+        1.183097136949295,
+        1.1831045718533513,
+        1.197830890963595
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 1,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21698.515748481033,
+    "solvetime": 21600.289638996124,
+    "result": -1,
+    "compare_value": 216.22533907291944,
+    "reduced_to_zones": 100,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.289638996124,
+      "Work": 14095.488838691692,
+      "ObjVal": 22.294439299212982,
+      "ObjBound": 11.560484881708465,
+      "ObjBoundC": 11.560484881708465,
+      "MIPGap": 0.4814633045238073,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 555890,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 11.560484881708465,
+      "PoolObjVal": [
+        22.294439299212982,
+        22.294455759082965,
+        22.31045695183663,
+        23.15187368595167,
+        23.161923597290045,
+        23.16604588669432,
+        23.84447953411924,
+        23.849151018251526,
+        47.50610544409711,
+        128.7370567484514
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 1,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 22108.10482902685,
+    "solvetime": 21602.992260217667,
+    "result": -1,
+    "compare_value": 217.8683378464345,
+    "reduced_to_zones": 2,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21602.992260217667,
+      "Work": 9974.57107569867,
+      "ObjVal": 0.13250161832338678,
+      "ObjBound": 0.13129245079457613,
+      "ObjBoundC": 0.13129245079457613,
+      "MIPGap": 0.009125681211376004,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 317684,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 4,
+      "PoolObjBound": 0.13129245079457613,
+      "PoolObjVal": [
+        0.13250161832338678,
+        0.13440832508672912,
+        1.1923112448360635,
+        2.1761472716842705
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 1,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21700.894495353103,
+    "solvetime": 21600.741060972214,
+    "result": -1,
+    "compare_value": 197.0482037999926,
+    "reduced_to_zones": 20,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.741060972214,
+      "Work": 10368.278236024966,
+      "ObjVal": 3.159941734657085,
+      "ObjBound": 1.8413579411548866,
+      "ObjBoundC": 1.8413579411548866,
+      "MIPGap": 0.41728104636881547,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 366580,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 1.8413579411548866,
+      "PoolObjVal": [
+        3.159941734657085,
+        3.4679410292490545,
+        3.4813711787567394,
+        3.6690902223135575,
+        3.6691167591255445,
+        3.669184649578618,
+        3.6693776594423793,
+        3.7069957262771807,
+        3.707044777644842,
+        4.561108689536794
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 1,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21751.490752371028,
+    "solvetime": 21600.695818901062,
+    "result": -1,
+    "compare_value": 223.47175313153113,
+    "reduced_to_zones": 30,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.695818901062,
+      "Work": 7078.602669439815,
+      "ObjVal": 6.67488269212099,
+      "ObjBound": 2.9824802278441815,
+      "ObjBoundC": 2.9824802278441815,
+      "MIPGap": 0.5531786301855625,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 226958,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 6,
+      "PoolObjBound": 2.9824802278441815,
+      "PoolObjVal": [
+        6.67488269212099,
+        7.28223196478899,
+        7.294702078244474,
+        13.83746231102248,
+        17.787272582988834,
+        36.92731245007609
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 1,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21650.65181391826,
+    "solvetime": 21600.18446302414,
+    "result": -1,
+    "compare_value": 173.15772340051743,
+    "reduced_to_zones": 50,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.18446302414,
+      "Work": 12815.531656139428,
+      "ObjVal": 9.021761783585905,
+      "ObjBound": 5.395498928243418,
+      "ObjBoundC": 5.395498928243418,
+      "MIPGap": 0.4019461987945714,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 3822425,
+      "BarIterCount": 0,
+      "NodeCount": 534,
+      "SolCount": 10,
+      "PoolObjBound": 5.395498928243418,
+      "PoolObjVal": [
+        9.021761783585905,
+        9.021762362049781,
+        9.021763052185642,
+        9.02176712891443,
+        9.021770929713608,
+        9.021782126970658,
+        9.021924837621379,
+        9.02192876470292,
+        9.022557211205928,
+        9.030501582254633
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 2,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 25249.32703414699,
+    "solvetime": 24980.814736127853,
+    "result": -1,
+    "compare_value": 498.9563839408886,
+    "reduced_to_zones": 1,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 24980.814736127853,
+      "Work": 12495.280116326578,
+      "ObjVal": 0.31373469857203223,
+      "ObjBound": 0.3131601464940716,
+      "ObjBoundC": 0.3131601464940716,
+      "MIPGap": 0.001831330995824579,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 233071,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 4,
+      "PoolObjBound": 0.3131601464940716,
+      "PoolObjVal": [
+        0.31373469857203223,
+        0.32056753908388347,
+        1.1592939083600422,
+        2.1250733535357824
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 2,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21647.276077720802,
+    "solvetime": 21600.185743808746,
+    "result": -1,
+    "compare_value": 330.72298836636384,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.185743808746,
+      "Work": 11658.272136425545,
+      "ObjVal": 2.808173420045042,
+      "ObjBound": 2.102568714029486,
+      "ObjBoundC": 2.102568714029486,
+      "MIPGap": 0.25126820907101893,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 586134,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 2.102568714029486,
+      "PoolObjVal": [
+        2.808173420045042,
+        2.8081796871171667,
+        2.82736038654832,
+        2.827369672226072,
+        2.838249947023928,
+        3.1824135550392247,
+        3.279941981219245,
+        4.994945811781404,
+        10.023570657820738,
+        23.321115620367895
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 2,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 5555.743639297783,
+    "solvetime": 5545.4532380104065,
+    "result": 2.350551278531631,
+    "compare_value": 302.210558250829,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 5545.4532380104065,
+      "Work": 3980.35679871826,
+      "ObjVal": 2.350551278531631,
+      "ObjBound": 2.350551278531631,
+      "ObjBoundC": 2.350551278531632,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 3472825,
+      "BarIterCount": 0,
+      "NodeCount": 512,
+      "SolCount": 10,
+      "PoolObjBound": 2.350551278531632,
+      "PoolObjVal": [
+        2.350551278531631,
+        2.3897848045672734,
+        2.389785642109102,
+        2.402336172395528,
+        2.7392956965535524,
+        2.777829566915925,
+        2.7847866036573485,
+        2.7847893567062547,
+        2.790054346927384,
+        2.790054896105495
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 2,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21702.233394711046,
+    "solvetime": 21600.392379045486,
+    "result": -1,
+    "compare_value": 370.86686302304577,
+    "reduced_to_zones": 100,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.392379045486,
+      "Work": 15797.698660783235,
+      "ObjVal": 39.16706903870409,
+      "ObjBound": 21.848340301666664,
+      "ObjBoundC": 21.848340301666664,
+      "MIPGap": 0.44217576556273375,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 500438,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 21.848340301666664,
+      "PoolObjVal": [
+        39.16706903870409,
+        39.16726820063795,
+        39.167397957448955,
+        39.57394146258062,
+        39.62649278227439,
+        41.341382594704825,
+        41.583519802991816,
+        55.58610655290496,
+        117.54273754274507,
+        222.10171168731776
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 2,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 22411.00683833519,
+    "solvetime": 21607.77606201172,
+    "result": -1,
+    "compare_value": 379.8010233379462,
+    "reduced_to_zones": 2,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21607.77606201172,
+      "Work": 4502.752151768055,
+      "ObjVal": 0.24811343655128967,
+      "ObjBound": 0.18365262695559526,
+      "ObjBoundC": 0.18365262695559526,
+      "MIPGap": 0.25980378367122076,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 307667,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 4,
+      "PoolObjBound": 0.18365262695559526,
+      "PoolObjVal": [
+        0.24811343655128967,
+        0.2510244736921854,
+        1.8151975186141218,
+        4.640543176842051
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 2,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21690.567217721138,
+    "solvetime": 21600.61367893219,
+    "result": -1,
+    "compare_value": 347.80084828822714,
+    "reduced_to_zones": 20,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.61367893219,
+      "Work": 13302.081448453086,
+      "ObjVal": 6.431468787291354,
+      "ObjBound": 3.8134253561719227,
+      "ObjBoundC": 3.8134253561719227,
+      "MIPGap": 0.4070677348683882,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 451713,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 3.8134253561719227,
+      "PoolObjVal": [
+        6.431468787291354,
+        6.431477064637338,
+        6.431514645099043,
+        6.455700659044995,
+        6.4557065167854315,
+        7.43016675012177,
+        7.822724579654562,
+        10.158696163620409,
+        24.298417944331877,
+        45.684280375022595
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 2,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21733.31203644909,
+    "solvetime": 21601.29779291153,
+    "result": -1,
+    "compare_value": 342.16244794111134,
+    "reduced_to_zones": 30,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21601.29779291153,
+      "Work": 9255.319161136671,
+      "ObjVal": 9.494926066010938,
+      "ObjBound": 5.382543292468166,
+      "ObjBoundC": 5.382543292468166,
+      "MIPGap": 0.4331137225242755,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 353635,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 7,
+      "PoolObjBound": 5.382543292468166,
+      "PoolObjVal": [
+        9.494926066010938,
+        9.49493583053091,
+        10.207253912951039,
+        10.332747141916148,
+        14.938270693951601,
+        29.472256944196538,
+        64.95971294514827
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 2,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21646.026771604083,
+    "solvetime": 21600.16435790062,
+    "result": -1,
+    "compare_value": 330.8454868464767,
+    "reduced_to_zones": 50,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.16435790062,
+      "Work": 16908.138640772002,
+      "ObjVal": 16.930152965289253,
+      "ObjBound": 11.51648424692044,
+      "ObjBoundC": 11.51648424692044,
+      "MIPGap": 0.3197649028610723,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 767993,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 11.51648424692044,
+      "PoolObjVal": [
+        16.930152965289253,
+        16.941964509726397,
+        16.943456577789256,
+        17.26549981766632,
+        17.26551574226375,
+        18.41937535664874,
+        19.766533688702424,
+        20.213490589963264,
+        20.395654978728132,
+        28.947128920597343
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 3,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21875.393293187954,
+    "solvetime": 21601.72467494011,
+    "result": -1,
+    "compare_value": 904.829810627746,
+    "reduced_to_zones": 1,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21601.72467494011,
+      "Work": 9421.059031748333,
+      "ObjVal": 0.23738560470507275,
+      "ObjBound": 0.2329425161549493,
+      "ObjBoundC": 0.2329425161549493,
+      "MIPGap": 0.01871675645894173,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 268834,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 5,
+      "PoolObjBound": 0.2329425161549493,
+      "PoolObjVal": [
+        0.23738560470507275,
+        0.23750858995368274,
+        0.24016376056060687,
+        1.0357197245354244,
+        1.7721781285222922
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 3,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21648.45478732884,
+    "solvetime": 21600.178735017776,
+    "result": -1,
+    "compare_value": 272.815505876529,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.178735017776,
+      "Work": 11550.14935722843,
+      "ObjVal": 2.049215404070365,
+      "ObjBound": 1.5702038286656337,
+      "ObjBoundC": 1.5702038286656337,
+      "MIPGap": 0.23375364759276582,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 601931,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 1.5702038286656337,
+      "PoolObjVal": [
+        2.049215404070365,
+        2.049237371572948,
+        2.0692684096201965,
+        2.0692686905139395,
+        2.069271355926279,
+        2.0692785417244983,
+        2.147639518736189,
+        2.716792338745817,
+        4.135931947456168,
+        9.373516847068384
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 3,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 3151.47109838482,
+    "solvetime": 3140.3700230121613,
+    "result": 1.7871413921205543,
+    "compare_value": 251.08130157017865,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 3140.3700230121613,
+      "Work": 2195.599370652562,
+      "ObjVal": 1.7871413921205543,
+      "ObjBound": 1.7870003663397198,
+      "ObjBoundC": 1.7870003663397198,
+      "MIPGap": 7.89113729088828e-05,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 610942,
+      "BarIterCount": 0,
+      "NodeCount": 544,
+      "SolCount": 10,
+      "PoolObjBound": 1.7870003663397198,
+      "PoolObjVal": [
+        1.7871413921205543,
+        1.7871415981889909,
+        1.7871580050623344,
+        1.8948838022862358,
+        1.894883847164489,
+        1.8948879402898577,
+        1.903965440222553,
+        1.9596299966525617,
+        1.9596317615787988,
+        1.9596342993992504
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 3,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21708.462961285375,
+    "solvetime": 21600.304320812225,
+    "result": -1,
+    "compare_value": 260.4620804560429,
+    "reduced_to_zones": 100,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.304320812225,
+      "Work": 12823.89627571194,
+      "ObjVal": 26.289845072724365,
+      "ObjBound": 17.16401879524375,
+      "ObjBoundC": 17.16401879524375,
+      "MIPGap": 0.3471236232939476,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 546116,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 9,
+      "PoolObjBound": 17.16401879524375,
+      "PoolObjVal": [
+        26.289845072724365,
+        26.33558996257959,
+        26.498802188454633,
+        26.553898201638752,
+        29.84360170381312,
+        32.2424188736443,
+        52.06630515104324,
+        91.65187435469761,
+        216.02320233368062
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 3,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 22190.526945995167,
+    "solvetime": 21604.50240421295,
+    "result": -1,
+    "compare_value": 498.85767860603164,
+    "reduced_to_zones": 2,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21604.50240421295,
+      "Work": 12059.608548430146,
+      "ObjVal": 0.25682190841812225,
+      "ObjBound": 0.16545737370372796,
+      "ObjBoundC": 0.16545737370372796,
+      "MIPGap": 0.3557505482189902,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 335288,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 5,
+      "PoolObjBound": 0.16545737370372796,
+      "PoolObjVal": [
+        0.25682190841812225,
+        0.2602489950251488,
+        0.6489970599255224,
+        1.9776255421891056,
+        4.006662840675028
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 3,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21692.10935331369,
+    "solvetime": 21600.465377807617,
+    "result": -1,
+    "compare_value": 252.9497092939247,
+    "reduced_to_zones": 20,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.465377807617,
+      "Work": 12522.375593022807,
+      "ObjVal": 4.307955446950119,
+      "ObjBound": 3.0092382737670578,
+      "ObjBoundC": 3.0092382737670578,
+      "MIPGap": 0.30146949966776176,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 372761,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 9,
+      "PoolObjBound": 3.0092382737670578,
+      "PoolObjVal": [
+        4.307955446950119,
+        4.307956758226645,
+        4.308010377061133,
+        4.380561349175637,
+        5.06847555096625,
+        5.299659181796935,
+        8.30224041567076,
+        18.507020725020496,
+        41.57856291136358
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 3,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21751.615399871953,
+    "solvetime": 21600.676276922226,
+    "result": -1,
+    "compare_value": 273.2030212309249,
+    "reduced_to_zones": 30,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.676276922226,
+      "Work": 10958.497095772587,
+      "ObjVal": 8.558302087184249,
+      "ObjBound": 4.616217860845685,
+      "ObjBoundC": 4.616217860845685,
+      "MIPGap": 0.46061522322771165,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 330947,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 9,
+      "PoolObjBound": 4.616217860845685,
+      "PoolObjVal": [
+        8.558302087184249,
+        8.558313722817108,
+        8.567607574329784,
+        8.678364847202054,
+        9.373953760230847,
+        9.823171581670753,
+        14.32868519371409,
+        31.474089599588837,
+        62.68197784794485
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 3,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21664.427978314925,
+    "solvetime": 21600.19487309456,
+    "result": -1,
+    "compare_value": 267.41282941224244,
+    "reduced_to_zones": 50,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.19487309456,
+      "Work": 11925.613407627738,
+      "ObjVal": 14.283510951581668,
+      "ObjBound": 9.528968469475481,
+      "ObjBoundC": 9.528968469475481,
+      "MIPGap": 0.33286931330981323,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 631485,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 9.528968469475481,
+      "PoolObjVal": [
+        14.283510951581668,
+        14.283512973545228,
+        14.4610866505909,
+        14.732309855359276,
+        14.732316923623166,
+        14.783867695254116,
+        16.14257459019136,
+        25.457189267661164,
+        46.08081222344042,
+        103.07761402942995
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 4,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 19899.57837110432,
+    "solvetime": 19553.50545501709,
+    "result": 0.31618652195880403,
+    "compare_value": 488.46745158277275,
+    "reduced_to_zones": 1,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 19553.50545501709,
+      "Work": 16090.679102154105,
+      "ObjVal": 0.31618652195880403,
+      "ObjBound": 0.31618652195880403,
+      "ObjBoundC": 0.31618652195880403,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 183541,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 4,
+      "PoolObjBound": 0.31618652195880403,
+      "PoolObjVal": [
+        0.31618652195880403,
+        0.31655352971798295,
+        1.3278614736690026,
+        2.518864335416484
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 4,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21663.218905399088,
+    "solvetime": 21600.24059200287,
+    "result": -1,
+    "compare_value": 348.30090145239853,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.24059200287,
+      "Work": 13764.705769862323,
+      "ObjVal": 3.2297249722438233,
+      "ObjBound": 2.738516636179976,
+      "ObjBoundC": 2.738516636179976,
+      "MIPGap": 0.15208983436214527,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 478317,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 2.738516636179976,
+      "PoolObjVal": [
+        3.2297249722438233,
+        3.229725036320158,
+        3.2297344403630386,
+        3.229892763054229,
+        3.2299311123962227,
+        3.4208606747256463,
+        3.594102902642452,
+        3.660791119502755,
+        5.051785775335606,
+        8.560076759759308
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 4,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 3262.0591549319215,
+    "solvetime": 3250.103417158127,
+    "result": 2.737175255279191,
+    "compare_value": 344.55469548679844,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 3250.103417158127,
+      "Work": 1938.579721841548,
+      "ObjVal": 2.737175255279191,
+      "ObjBound": 2.7371752552791904,
+      "ObjBoundC": 2.7371752552791904,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 355407,
+      "BarIterCount": 0,
+      "NodeCount": 512,
+      "SolCount": 10,
+      "PoolObjBound": 2.7371752552791904,
+      "PoolObjVal": [
+        2.737175255279191,
+        2.7379350663208895,
+        2.7379414433042535,
+        2.74472864749392,
+        2.7447291999665437,
+        2.744731504260866,
+        2.7456097028423248,
+        2.745612571393573,
+        2.7643053188266724,
+        2.7643061209995863
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 4,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21739.364888448268,
+    "solvetime": 21600.98901104927,
+    "result": -1,
+    "compare_value": 346.4720834034111,
+    "reduced_to_zones": 100,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.98901104927,
+      "Work": 11040.30355734728,
+      "ObjVal": 36.65923585451995,
+      "ObjBound": 22.847184715669748,
+      "ObjBoundC": 22.847184715669748,
+      "MIPGap": 0.37676865916306945,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 632454,
+      "BarIterCount": 0,
+      "NodeCount": 35,
+      "SolCount": 8,
+      "PoolObjBound": 22.847184715669748,
+      "PoolObjVal": [
+        36.65923585451995,
+        36.659248172688066,
+        36.65943177022899,
+        36.689122498773955,
+        48.256436523614845,
+        88.25183573987803,
+        126.69358991342081,
+        291.46718547979253
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 4,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 22265.516987333074,
+    "solvetime": 21604.373342990875,
+    "result": -1,
+    "compare_value": 515.0540130735535,
+    "reduced_to_zones": 2,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21604.373342990875,
+      "Work": 14456.228191937224,
+      "ObjVal": 0.26777385125130815,
+      "ObjBound": 0.2598754493655573,
+      "ObjBoundC": 0.2598754493655573,
+      "MIPGap": 0.029496539146154865,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 343334,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 4,
+      "PoolObjBound": 0.2598754493655573,
+      "PoolObjVal": [
+        0.26777385125130815,
+        0.2701978605764929,
+        2.6598852216879783,
+        4.910887878461391
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 4,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21710.01245243009,
+    "solvetime": 21600.546012878418,
+    "result": -1,
+    "compare_value": 297.1947945238847,
+    "reduced_to_zones": 20,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.546012878418,
+      "Work": 13155.63316414958,
+      "ObjVal": 5.543547399448324,
+      "ObjBound": 4.100378506509688,
+      "ObjBoundC": 4.100378506509688,
+      "MIPGap": 0.26033310242503854,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 6560383,
+      "BarIterCount": 0,
+      "NodeCount": 369,
+      "SolCount": 10,
+      "PoolObjBound": 4.100378506509688,
+      "PoolObjVal": [
+        5.543547399448324,
+        5.740829940408288,
+        5.74500859783817,
+        5.7450479380708614,
+        5.745104087869018,
+        5.933877997365979,
+        6.940106825711441,
+        6.940110406054884,
+        6.940125391924462,
+        6.9401629211518365
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 4,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21783.543315960094,
+    "solvetime": 21600.894348859787,
+    "result": -1,
+    "compare_value": 368.82210653710945,
+    "reduced_to_zones": 30,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.894348859787,
+      "Work": 8391.820308242133,
+      "ObjVal": 11.040326461329949,
+      "ObjBound": 6.629107977959928,
+      "ObjBoundC": 6.629107977959928,
+      "MIPGap": 0.39955507645728017,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 236683,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 6,
+      "PoolObjBound": 6.629107977959928,
+      "PoolObjVal": [
+        11.040326461329949,
+        11.518345838786482,
+        11.554021351337184,
+        12.278818980287483,
+        35.462729612279894,
+        79.37493742833904
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 4,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21661.217933765147,
+    "solvetime": 21600.230517864227,
+    "result": -1,
+    "compare_value": 394.82496819872574,
+    "reduced_to_zones": 50,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.230517864227,
+      "Work": 15299.341723754073,
+      "ObjVal": 20.759300292014725,
+      "ObjBound": 11.966771593377263,
+      "ObjBoundC": 11.966771593377263,
+      "MIPGap": 0.42354648639191356,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 700882,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 11.966771593377263,
+      "PoolObjVal": [
+        20.759300292014725,
+        20.762679571560987,
+        20.767882227665446,
+        20.807697409423326,
+        21.509401618536053,
+        21.513942889210963,
+        21.514739530967457,
+        21.772681035872846,
+        22.417411306055932,
+        22.41748290190892
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 5,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 3322.5626467522234,
+    "solvetime": 3032.4365129470825,
+    "result": 0.33927811909490335,
+    "compare_value": 1546.3986918026199,
+    "reduced_to_zones": 1,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 3032.4365129470825,
+      "Work": 1283.055342455182,
+      "ObjVal": 0.33927811909490335,
+      "ObjBound": 0.33927811909490335,
+      "ObjBoundC": 0.33927811909490335,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 24942,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 3,
+      "PoolObjBound": 0.33927811909490335,
+      "PoolObjVal": [
+        0.33927811909490335,
+        1.0570919660842888,
+        1.8960509783562445
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 5,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21654.758589112666,
+    "solvetime": 21600.237579107285,
+    "result": -1,
+    "compare_value": 329.22921053357123,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.237579107285,
+      "Work": 12227.525183384236,
+      "ObjVal": 2.639518553870925,
+      "ObjBound": 2.2470399840102466,
+      "ObjBoundC": 2.2470399840102466,
+      "MIPGap": 0.14869324153266433,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 553269,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 2.2470399840102466,
+      "PoolObjVal": [
+        2.639518553870925,
+        2.63952121488101,
+        2.639772762769036,
+        2.845091160239625,
+        2.845532849832013,
+        2.8455752986256573,
+        3.3489608125420776,
+        3.416688859744066,
+        6.794912975417834,
+        10.144673609436492
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 5,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 3799.1830621561967,
+    "solvetime": 3787.423196077347,
+    "result": 2.322467427411947,
+    "compare_value": 326.9837332913395,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 3787.423196077347,
+      "Work": 2880.0219923318496,
+      "ObjVal": 2.322467427411947,
+      "ObjBound": 2.3224674274119463,
+      "ObjBoundC": 2.3224674274119463,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 2334421,
+      "BarIterCount": 0,
+      "NodeCount": 512,
+      "SolCount": 10,
+      "PoolObjBound": 2.3224674274119463,
+      "PoolObjVal": [
+        2.322467427411947,
+        2.33871188044879,
+        2.3387120858962795,
+        2.348884095436123,
+        2.3505645640104436,
+        2.3505649018710346,
+        2.3505689476612908,
+        2.35057422464243,
+        2.4936268739252796,
+        2.493632076172058
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 5,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21716.567624109797,
+    "solvetime": 21600.413854837418,
+    "result": -1,
+    "compare_value": 411.91296197064014,
+    "reduced_to_zones": 100,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.413854837418,
+      "Work": 14191.301660230303,
+      "ObjVal": 43.3169558257243,
+      "ObjBound": 25.077008078125,
+      "ObjBoundC": 25.077008078125,
+      "MIPGap": 0.42108101550310895,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 450869,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 8,
+      "PoolObjBound": 25.077008078125,
+      "PoolObjVal": [
+        43.3169558257243,
+        43.51175987334683,
+        43.511789002706834,
+        43.75708711715184,
+        49.66582194688621,
+        68.41848827623684,
+        124.8891193725262,
+        262.5545035899997
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 5,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 22202.329026657622,
+    "solvetime": 21603.672396183014,
+    "result": -1,
+    "compare_value": 722.9101689177417,
+    "reduced_to_zones": 2,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21603.672396183014,
+      "Work": 11002.266972512107,
+      "ObjVal": 0.6018407594468188,
+      "ObjBound": 0.2228433587487328,
+      "ObjBoundC": 0.2228433587487328,
+      "MIPGap": 0.6297303643017482,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 348418,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 4,
+      "PoolObjBound": 0.2228433587487328,
+      "PoolObjVal": [
+        0.6018407594468188,
+        0.6305119100122426,
+        2.474219981049513,
+        5.148968120248334
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 5,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21707.88165176008,
+    "solvetime": 21600.48177099228,
+    "result": -1,
+    "compare_value": 309.64303287929215,
+    "reduced_to_zones": 20,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.48177099228,
+      "Work": 12359.751933017353,
+      "ObjVal": 5.896669739839446,
+      "ObjBound": 4.426513356385767,
+      "ObjBoundC": 4.426513356385767,
+      "MIPGap": 0.24931977680908887,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 316928,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 9,
+      "PoolObjBound": 4.426513356385767,
+      "PoolObjVal": [
+        5.896669739839446,
+        5.896692832966337,
+        5.896722216243778,
+        5.9163980769416025,
+        6.9709890490824815,
+        7.026798619284503,
+        10.531843813140423,
+        21.239937719686207,
+        52.88715580076524
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 5,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21764.25114209205,
+    "solvetime": 21600.783959150314,
+    "result": -1,
+    "compare_value": 357.2404429419554,
+    "reduced_to_zones": 30,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.783959150314,
+      "Work": 11274.945718449962,
+      "ObjVal": 11.333825319985014,
+      "ObjBound": 7.175473610958675,
+      "ObjBoundC": 7.175473610958675,
+      "MIPGap": 0.36689745885653346,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 334070,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 8,
+      "PoolObjBound": 7.175473610958675,
+      "PoolObjVal": [
+        11.333825319985014,
+        11.484729984630336,
+        11.484893279454003,
+        13.283708984123818,
+        13.743466063207677,
+        22.626537391937376,
+        36.74557265083971,
+        81.72660371164733
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 5,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21656.32114110398,
+    "solvetime": 21600.170267105103,
+    "result": -1,
+    "compare_value": 312.28469233185706,
+    "reduced_to_zones": 50,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.170267105103,
+      "Work": 15758.845870061505,
+      "ObjVal": 17.128650580752918,
+      "ObjBound": 13.02907602123985,
+      "ObjBoundC": 13.02907602123985,
+      "MIPGap": 0.23934019438283527,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 779898,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 13.02907602123985,
+      "PoolObjVal": [
+        17.128650580752918,
+        17.131578870220444,
+        17.146511016055182,
+        17.155647022785253,
+        17.15564989978435,
+        17.172896353866733,
+        17.172915790327018,
+        19.340993472797408,
+        19.97486418478215,
+        19.979165816603377
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 10,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 3455.8353011220024,
+    "solvetime": 3165.6378960609436,
+    "result": 0.324024745642841,
+    "compare_value": 1241.4636040344956,
+    "reduced_to_zones": 1,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 3165.6378960609436,
+      "Work": 968.7606731321413,
+      "ObjVal": 0.324024745642841,
+      "ObjBound": 0.32402474564284095,
+      "ObjBoundC": 0.32402474564284095,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 23547,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 4,
+      "PoolObjBound": 0.32402474564284095,
+      "PoolObjVal": [
+        0.324024745642841,
+        0.32431338841759705,
+        1.1200806765890383,
+        2.108160441777339
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 10,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21649.936953711003,
+    "solvetime": 21600.21482205391,
+    "result": -1,
+    "compare_value": 326.6743451529195,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.21482205391,
+      "Work": 15621.828368874212,
+      "ObjVal": 2.7109257258217134,
+      "ObjBound": 2.1950722078531935,
+      "ObjBoundC": 2.1950722078531935,
+      "MIPGap": 0.19028685037549625,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 574472,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 2.1950722078531935,
+      "PoolObjVal": [
+        2.7109257258217134,
+        2.710929393330912,
+        2.7116909577317716,
+        2.7169265075671465,
+        2.834765244592413,
+        2.834801199935002,
+        2.843667147333087,
+        2.843762181330254,
+        2.982293269240392,
+        3.4069728602136684
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 10,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 4076.7698321540374,
+    "solvetime": 4066.870917081833,
+    "result": 2.2852827637169137,
+    "compare_value": 322.503687245068,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 4066.870917081833,
+      "Work": 2555.326001925471,
+      "ObjVal": 2.2852827637169137,
+      "ObjBound": 2.2852827637169137,
+      "ObjBoundC": 2.2852827637169146,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 1838261,
+      "BarIterCount": 0,
+      "NodeCount": 512,
+      "SolCount": 10,
+      "PoolObjBound": 2.2852827637169146,
+      "PoolObjVal": [
+        2.2852827637169137,
+        2.344561758294199,
+        2.344563124037743,
+        2.3697028981115396,
+        2.4091406116063525,
+        2.409141345288571,
+        2.409142336773199,
+        2.4878099718030002,
+        2.491212131611647,
+        2.493363177445231
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 10,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21700.857903753014,
+    "solvetime": 21600.447777032852,
+    "result": -1,
+    "compare_value": 356.79590693135316,
+    "reduced_to_zones": 100,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.447777032852,
+      "Work": 12063.868995835097,
+      "ObjVal": 38.255128623515596,
+      "ObjBound": 22.196156490587576,
+      "ObjBoundC": 22.196156490587576,
+      "MIPGap": 0.41978612308354646,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 361989,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 9,
+      "PoolObjBound": 22.196156490587576,
+      "PoolObjVal": [
+        38.255128623515596,
+        38.25514141664113,
+        38.28970094645037,
+        40.00217705047643,
+        51.03560618720576,
+        55.494094503591775,
+        81.94426540101455,
+        92.10928390662025,
+        269.0093110822799
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 10,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 22533.564549710005,
+    "solvetime": 21963.87368106842,
+    "result": -1,
+    "compare_value": 376.87406764455596,
+    "reduced_to_zones": 2,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21963.87368106842,
+      "Work": 12584.547557158985,
+      "ObjVal": 0.3080534776965455,
+      "ObjBound": 0.27010164657244246,
+      "ObjBoundC": 0.27010164657244246,
+      "MIPGap": 0.12319884004519596,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 337204,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 4,
+      "PoolObjBound": 0.27010164657244246,
+      "PoolObjVal": [
+        0.3080534776965455,
+        0.3102929664852965,
+        1.9843232643997228,
+        4.830599176375374
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 10,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21695.409429715015,
+    "solvetime": 21600.660248041153,
+    "result": -1,
+    "compare_value": 312.06875836140057,
+    "reduced_to_zones": 20,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.660248041153,
+      "Work": 12700.236263983566,
+      "ObjVal": 5.5698020996008175,
+      "ObjBound": 3.6843223704738497,
+      "ObjBoundC": 3.6843223704738497,
+      "MIPGap": 0.33851826248226996,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 389485,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 3.6843223704738497,
+      "PoolObjVal": [
+        5.5698020996008175,
+        5.569818771136566,
+        5.8153282609865755,
+        7.356687242828173,
+        7.356752590566238,
+        7.671515095364446,
+        7.827527616640182,
+        10.437689057483501,
+        18.02162168646338,
+        50.523861093955674
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 10,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21760.298265677993,
+    "solvetime": 21600.693855047226,
+    "result": -1,
+    "compare_value": 371.62530411016314,
+    "reduced_to_zones": 30,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.693855047226,
+      "Work": 10533.155905776011,
+      "ObjVal": 10.883724736847906,
+      "ObjBound": 6.173683850162921,
+      "ObjBoundC": 6.173683850162921,
+      "MIPGap": 0.43276001557983956,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 343399,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 6.173683850162921,
+      "PoolObjVal": [
+        10.883724736847906,
+        11.352655010341314,
+        11.372458903213447,
+        12.084728221196102,
+        12.1034808958407,
+        12.66496726051619,
+        12.764391207110169,
+        15.702814365176478,
+        29.520911465895647,
+        74.43777794344139
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 10,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21647.131931398995,
+    "solvetime": 21600.155092954636,
+    "result": -1,
+    "compare_value": 381.58015213966524,
+    "reduced_to_zones": 50,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.155092954636,
+      "Work": 14998.37135789186,
+      "ObjVal": 19.69733735806473,
+      "ObjBound": 11.463071342183758,
+      "ObjBoundC": 11.463071342183758,
+      "MIPGap": 0.41803954850321917,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 734463,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 11.463071342183758,
+      "PoolObjVal": [
+        19.69733735806473,
+        19.748512066324633,
+        19.830515499217107,
+        19.831360583054355,
+        19.831596762305583,
+        19.842166755097317,
+        20.617732898916124,
+        20.729618966171056,
+        20.781574983805996,
+        23.4734370484149
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 6,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 6161.1104615490185,
+    "solvetime": 5808.872095108032,
+    "result": 0.31657608914688096,
+    "compare_value": 526.8980972189946,
+    "reduced_to_zones": 1,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 5808.872095108032,
+      "Work": 1742.6056301565525,
+      "ObjVal": 0.31657608914688096,
+      "ObjBound": 0.31657608914688096,
+      "ObjBoundC": 0.31657608914688096,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 183712,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 3,
+      "PoolObjBound": 0.31657608914688096,
+      "PoolObjVal": [
+        0.31657608914688096,
+        1.2939104628573972,
+        2.205969226965239
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 6,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21644.745699217994,
+    "solvetime": 21600.211661100388,
+    "result": -1,
+    "compare_value": 359.89094282703803,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.211661100388,
+      "Work": 11379.613069610326,
+      "ObjVal": 2.809296069753961,
+      "ObjBound": 2.00033764507228,
+      "ObjBoundC": 2.00033764507228,
+      "MIPGap": 0.28795769637499613,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 5340801,
+      "BarIterCount": 0,
+      "NodeCount": 516,
+      "SolCount": 10,
+      "PoolObjBound": 2.00033764507228,
+      "PoolObjVal": [
+        2.809296069753961,
+        2.809297974692505,
+        2.80930160815735,
+        2.8094083408110713,
+        2.814330342289645,
+        2.816938616866389,
+        2.841353029923979,
+        2.893082719234844,
+        2.9166671795262387,
+        2.916667478900047
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 6,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 5348.363112315012,
+    "solvetime": 5335.7750771045685,
+    "result": 2.4311333200587235,
+    "compare_value": 353.58149352184347,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 5335.7750771045685,
+      "Work": 2800.0027212669293,
+      "ObjVal": 2.4311333200587235,
+      "ObjBound": 2.4311333200587235,
+      "ObjBoundC": 2.431133320058724,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 825251,
+      "BarIterCount": 0,
+      "NodeCount": 517,
+      "SolCount": 10,
+      "PoolObjBound": 2.431133320058724,
+      "PoolObjVal": [
+        2.4311333200587235,
+        2.5150976465349935,
+        2.515099482263518,
+        2.5431337604845323,
+        2.5431354118762117,
+        2.543135880270881,
+        2.5767816524863343,
+        2.5769022247656865,
+        2.576903206518129,
+        2.9710868802593193
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 6,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21700.048321518,
+    "solvetime": 21600.409762859344,
+    "result": -1,
+    "compare_value": 377.5064202935818,
+    "reduced_to_zones": 100,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.409762859344,
+      "Work": 14114.239036211991,
+      "ObjVal": 39.093302351007864,
+      "ObjBound": 23.56034340851827,
+      "ObjBoundC": 23.56034340851827,
+      "MIPGap": 0.3973304379103992,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 480611,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 9,
+      "PoolObjBound": 23.56034340851827,
+      "PoolObjVal": [
+        39.093302351007864,
+        39.5563241018119,
+        39.556432846139515,
+        39.792565112027866,
+        51.25371066553248,
+        56.794030319894475,
+        91.19797752788443,
+        110.96616882801902,
+        282.9423383900729
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 6,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 22195.916122110008,
+    "solvetime": 21604.985642910004,
+    "result": -1,
+    "compare_value": 377.1462905846504,
+    "reduced_to_zones": 2,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21604.985642910004,
+      "Work": 11000.845939618655,
+      "ObjVal": 0.3193088564486728,
+      "ObjBound": 0.24777866040203875,
+      "ObjBoundC": 0.24777866040203875,
+      "MIPGap": 0.22401569703448596,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 330934,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 4,
+      "PoolObjBound": 0.24777866040203875,
+      "PoolObjVal": [
+        0.3193088564486728,
+        0.3239328911589315,
+        2.5501098569020084,
+        5.245111152710405
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 6,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21700.080862069008,
+    "solvetime": 21600.591955184937,
+    "result": -1,
+    "compare_value": 354.7367704175987,
+    "reduced_to_zones": 20,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.591955184937,
+      "Work": 13593.90881460288,
+      "ObjVal": 6.75914051071097,
+      "ObjBound": 4.203470657064104,
+      "ObjBoundC": 4.203470657064104,
+      "MIPGap": 0.3781057443023986,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 388076,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 4.203470657064104,
+      "PoolObjVal": [
+        6.75914051071097,
+        6.7596332336911304,
+        6.890083926850428,
+        7.152034509219554,
+        7.7590198637414085,
+        8.296503244604533,
+        8.29668999762891,
+        8.551459409857092,
+        8.909208890965779,
+        13.548291030110377
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 6,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21736.37744429102,
+    "solvetime": 21600.957613945007,
+    "result": -1,
+    "compare_value": 477.3874187563591,
+    "reduced_to_zones": 30,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.957613945007,
+      "Work": 7565.620125492967,
+      "ObjVal": 14.814532391964603,
+      "ObjBound": 5.965144472954124,
+      "ObjBoundC": 5.965144472954124,
+      "MIPGap": 0.5973450720463093,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 299563,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 7,
+      "PoolObjBound": 5.965144472954124,
+      "PoolObjVal": [
+        14.814532391964603,
+        14.814706625156607,
+        15.08228230132691,
+        15.107892672162743,
+        25.38419596349221,
+        30.151734682504163,
+        92.72487204799862
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 6,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21653.31720088597,
+    "solvetime": 21600.192795991898,
+    "result": -1,
+    "compare_value": 344.43929527291033,
+    "reduced_to_zones": 50,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.192795991898,
+      "Work": 13690.28928457296,
+      "ObjVal": 17.7475624055797,
+      "ObjBound": 12.054262230701612,
+      "ObjBoundC": 12.054262230701612,
+      "MIPGap": 0.3207933599426678,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 621753,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 12.054262230701612,
+      "PoolObjVal": [
+        17.7475624055797,
+        17.756180760479218,
+        17.78129487510794,
+        17.781298447126524,
+        17.781299560435475,
+        17.900075266595657,
+        23.19854911334009,
+        42.15841921554264,
+        64.27202671516429,
+        147.11086956500202
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 7,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 6022.777950169999,
+    "solvetime": 5746.630206108093,
+    "result": 0.1701273853479876,
+    "compare_value": 340.4471967114808,
+    "reduced_to_zones": 1,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 5746.630206108093,
+      "Work": 2459.029217444579,
+      "ObjVal": 0.1701273853479876,
+      "ObjBound": 0.1701273853479876,
+      "ObjBoundC": 0.1701273853479876,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 200385,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 3,
+      "PoolObjBound": 0.1701273853479876,
+      "PoolObjVal": [
+        0.1701273853479876,
+        0.5965377893020688,
+        1.3597730548945717
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 7,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21645.555660336002,
+    "solvetime": 21600.57964491844,
+    "result": -1,
+    "compare_value": 209.14170476528565,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.57964491844,
+      "Work": 11396.891184934284,
+      "ObjVal": 1.4553922047074361,
+      "ObjBound": 1.240771742946046,
+      "ObjBoundC": 1.240771742946046,
+      "MIPGap": 0.14746572165716196,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 4319212,
+      "BarIterCount": 0,
+      "NodeCount": 533,
+      "SolCount": 10,
+      "PoolObjBound": 1.240771742946046,
+      "PoolObjVal": [
+        1.4553922047074361,
+        1.4553923746904822,
+        1.457945422027975,
+        1.4579516804248054,
+        1.4579525875004529,
+        1.4638361218578593,
+        1.4668533624908204,
+        1.4726705175832744,
+        1.472737710027269,
+        1.51650881385493
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 7,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 2299.8828461309895,
+    "solvetime": 2287.7294170856476,
+    "result": 1.396679914923747,
+    "compare_value": 209.21660443187108,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 2287.7294170856476,
+      "Work": 1223.1089638649275,
+      "ObjVal": 1.396679914923747,
+      "ObjBound": 1.3966799149237437,
+      "ObjBoundC": 1.3966799149237437,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 292074,
+      "BarIterCount": 0,
+      "NodeCount": 512,
+      "SolCount": 10,
+      "PoolObjBound": 1.3966799149237437,
+      "PoolObjVal": [
+        1.396679914923747,
+        1.4179544427802273,
+        1.417955035627759,
+        1.417955665915585,
+        1.4179564763108088,
+        1.4188828887067195,
+        1.4201437392468528,
+        1.4201445496420766,
+        1.4201483133025385,
+        1.6664429550373026
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 7,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21701.576557983004,
+    "solvetime": 21600.334765195847,
+    "result": -1,
+    "compare_value": 231.32546624343007,
+    "reduced_to_zones": 100,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.334765195847,
+      "Work": 12433.184340092392,
+      "ObjVal": 25.109644912981352,
+      "ObjBound": 15.488074032810975,
+      "ObjBoundC": 15.488074032810975,
+      "MIPGap": 0.38318227571574115,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 530113,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 6,
+      "PoolObjBound": 15.488074032810975,
+      "PoolObjVal": [
+        25.109644912981352,
+        25.21767332752733,
+        28.170685834557673,
+        44.14205158354774,
+        70.81219425209906,
+        165.90631026223915
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 7,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 22265.26246550599,
+    "solvetime": 21664.672118902206,
+    "result": -1,
+    "compare_value": 240.84212086786223,
+    "reduced_to_zones": 2,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21664.672118902206,
+      "Work": 11452.07415381097,
+      "ObjVal": 0.1742034270995262,
+      "ObjBound": 0.1465097027916791,
+      "ObjBoundC": 0.1465097027916791,
+      "MIPGap": 0.15897347583193677,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 328071,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 4,
+      "PoolObjBound": 0.1465097027916791,
+      "PoolObjVal": [
+        0.1742034270995262,
+        0.179108547876831,
+        1.027393139546262,
+        3.268250328793995
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 7,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21701.013703778008,
+    "solvetime": 21600.457190990448,
+    "result": -1,
+    "compare_value": 218.5957389780634,
+    "reduced_to_zones": 20,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.457190990448,
+      "Work": 11671.111408569772,
+      "ObjVal": 4.711203042126462,
+      "ObjBound": 3.130499638379167,
+      "ObjBoundC": 3.130499638379167,
+      "MIPGap": 0.33552011866459996,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 321930,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 8,
+      "PoolObjBound": 3.130499638379167,
+      "PoolObjVal": [
+        4.711203042126462,
+        4.711247414014574,
+        4.711415491029632,
+        4.805432585408516,
+        5.038523373498559,
+        8.11232370944002,
+        16.470886574455484,
+        33.70506479949776
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 7,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21742.084768105997,
+    "solvetime": 21601.11013197899,
+    "result": -1,
+    "compare_value": 215.02118589758655,
+    "reduced_to_zones": 30,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21601.11013197899,
+      "Work": 10639.811882084368,
+      "ObjVal": 6.322468535013187,
+      "ObjBound": 4.188627407321004,
+      "ObjBoundC": 4.188627407321004,
+      "MIPGap": 0.3375012648738682,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 356056,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 4.188627407321004,
+      "PoolObjVal": [
+        6.322468535013187,
+        6.322473566942406,
+        6.322554619805585,
+        6.330524194586643,
+        6.330671040770445,
+        6.342907687261666,
+        8.516883122493244,
+        8.602691596909807,
+        11.383020691342413,
+        21.119408370159334
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 7,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21654.537468025985,
+    "solvetime": 21600.181318044662,
+    "result": -1,
+    "compare_value": 223.86309711090757,
+    "reduced_to_zones": 50,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.181318044662,
+      "Work": 13844.966375654385,
+      "ObjVal": 12.579853252513113,
+      "ObjBound": 8.384224473347336,
+      "ObjBoundC": 8.384224473347336,
+      "MIPGap": 0.3335196917601248,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 616909,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 7,
+      "PoolObjBound": 8.384224473347336,
+      "PoolObjVal": [
+        12.579853252513113,
+        12.579855285657601,
+        12.626689798417505,
+        13.299892660491846,
+        23.201109776044078,
+        38.390698906943804,
+        83.52330870049175
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 8,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 3896.6866430480004,
+    "solvetime": 3622.661144018173,
+    "result": 0.39119616579875827,
+    "compare_value": 439.15931277413256,
+    "reduced_to_zones": 1,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 3622.661144018173,
+      "Work": 1311.9174299917072,
+      "ObjVal": 0.39119616579875827,
+      "ObjBound": 0.39119616579875827,
+      "ObjBoundC": 0.39119616579875827,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 158938,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 3,
+      "PoolObjBound": 0.39119616579875827,
+      "PoolObjVal": [
+        0.39119616579875827,
+        1.5821610011354896,
+        2.2223862042028193
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 8,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21643.654285926008,
+    "solvetime": 21600.194022893906,
+    "result": -1,
+    "compare_value": 393.1533114992495,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.194022893906,
+      "Work": 12131.46054287892,
+      "ObjVal": 3.084833559788193,
+      "ObjBound": 2.3103540758394994,
+      "ObjBoundC": 2.3103540758394994,
+      "MIPGap": 0.25106037941375026,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 642679,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 2.3103540758394994,
+      "PoolObjVal": [
+        3.084833559788193,
+        3.084894802663928,
+        3.0849862658562994,
+        3.1206109222530505,
+        3.267656383248978,
+        3.26766163552804,
+        3.2677831667792656,
+        3.2690361462529935,
+        3.2696616746225784,
+        3.819622080432308
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 8,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 4732.507191271987,
+    "solvetime": 4720.759574890137,
+    "result": 2.496532872865364,
+    "compare_value": 345.5236292105578,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 4720.759574890137,
+      "Work": 3332.59419152566,
+      "ObjVal": 2.496532872865364,
+      "ObjBound": 2.496532872865356,
+      "ObjBoundC": 2.496532872865356,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 747091,
+      "BarIterCount": 0,
+      "NodeCount": 512,
+      "SolCount": 10,
+      "PoolObjBound": 2.496532872865356,
+      "PoolObjVal": [
+        2.496532872865364,
+        2.697192483784145,
+        2.6972030826431768,
+        2.7033125390406996,
+        2.7033136195865897,
+        2.7033152382825474,
+        2.8105343271653,
+        2.997696517488743,
+        2.997699753012745,
+        2.9977026284246424
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 8,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21695.938080323,
+    "solvetime": 21600.445576906204,
+    "result": -1,
+    "compare_value": 406.1729734482849,
+    "reduced_to_zones": 100,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.445576906204,
+      "Work": 15783.106295947708,
+      "ObjVal": 40.574383489090096,
+      "ObjBound": 23.364278992403076,
+      "ObjBoundC": 23.364278992403076,
+      "MIPGap": 0.42416182371112515,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 449920,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 8,
+      "PoolObjBound": 23.364278992403076,
+      "PoolObjVal": [
+        40.574383489090096,
+        40.574386895223086,
+        40.57441506650643,
+        50.22560279868851,
+        51.99297123704151,
+        79.78982324725665,
+        101.40696041552673,
+        283.9930303076002
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 8,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 22810.073389857018,
+    "solvetime": 22297.33699607849,
+    "result": -1,
+    "compare_value": 763.1972273663226,
+    "reduced_to_zones": 2,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 22297.33699607849,
+      "Work": 12920.621099909626,
+      "ObjVal": 0.4302521418756345,
+      "ObjBound": 0.2784015901741207,
+      "ObjBoundC": 0.2784015901741207,
+      "MIPGap": 0.3529338658014318,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 302437,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 4,
+      "PoolObjBound": 0.2784015901741207,
+      "PoolObjVal": [
+        0.4302521418756345,
+        0.44014053526046265,
+        2.265920964155029,
+        5.039477912803114
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 8,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21707.394889076008,
+    "solvetime": 21600.53323698044,
+    "result": -1,
+    "compare_value": 405.1213594229908,
+    "reduced_to_zones": 20,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.53323698044,
+      "Work": 8623.924675831186,
+      "ObjVal": 7.3071761653859,
+      "ObjBound": 4.144848342226146,
+      "ObjBoundC": 4.144848342226146,
+      "MIPGap": 0.4327701634100056,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 351873,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 4.144848342226146,
+      "PoolObjVal": [
+        7.3071761653859,
+        7.307197175754116,
+        7.3522869950760805,
+        7.354710806579827,
+        7.354860001711159,
+        9.12372409187554,
+        10.085898680576209,
+        14.729619449766062,
+        25.381234915958963,
+        49.959992106214784
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 8,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21732.15130643401,
+    "solvetime": 21600.7663731575,
+    "result": -1,
+    "compare_value": 402.62943222627854,
+    "reduced_to_zones": 30,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.7663731575,
+      "Work": 8846.188750490666,
+      "ObjVal": 11.671175200017048,
+      "ObjBound": 6.068672088466704,
+      "ObjBoundC": 6.068672088466704,
+      "MIPGap": 0.4800290472498571,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 342094,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 7,
+      "PoolObjBound": 6.068672088466704,
+      "PoolObjVal": [
+        11.671175200017048,
+        11.671357310446211,
+        11.96868578716444,
+        12.792002229965451,
+        18.1625882147616,
+        37.734412793378745,
+        81.3799906158103
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 8,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21653.553304731962,
+    "solvetime": 21600.369903087616,
+    "result": -1,
+    "compare_value": 352.52713874069747,
+    "reduced_to_zones": 50,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.369903087616,
+      "Work": 12909.97016333963,
+      "ObjVal": 17.816380865026865,
+      "ObjBound": 11.64394337265198,
+      "ObjBoundC": 11.64394337265198,
+      "MIPGap": 0.3464473250283526,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 2830151,
+      "BarIterCount": 0,
+      "NodeCount": 623,
+      "SolCount": 10,
+      "PoolObjBound": 11.64394337265198,
+      "PoolObjVal": [
+        17.816380865026865,
+        17.816381420094302,
+        17.816381988737838,
+        17.81639929105102,
+        18.278771337826356,
+        18.278778133598404,
+        18.27877877653978,
+        18.27879085110622,
+        18.288169134499796,
+        19.177646227259313
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 9,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21922.380631766006,
+    "solvetime": 21633.528392076492,
+    "result": -1,
+    "compare_value": 1549.5822802656442,
+    "reduced_to_zones": 1,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21633.528392076492,
+      "Work": 11859.015267679835,
+      "ObjVal": 0.3734198221609244,
+      "ObjBound": 0.3592226212654561,
+      "ObjBoundC": 0.3592226212654561,
+      "MIPGap": 0.03801940886081303,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 245607,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 5,
+      "PoolObjBound": 0.3592226212654561,
+      "PoolObjVal": [
+        0.3734198221609244,
+        0.3738446753595295,
+        0.37961798553522674,
+        1.3762617890872995,
+        2.2976489185066047
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 9,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21649.823819945,
+    "solvetime": 21600.17719888687,
+    "result": -1,
+    "compare_value": 364.4282886866396,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.17719888687,
+      "Work": 14027.673488427827,
+      "ObjVal": 2.5966916482094096,
+      "ObjBound": 2.137203757609682,
+      "ObjBoundC": 2.137203757609682,
+      "MIPGap": 0.17695127217610715,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 745482,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 2.137203757609682,
+      "PoolObjVal": [
+        2.5966916482094096,
+        2.5967145030951553,
+        2.6062743073396435,
+        2.60627517567619,
+        2.70217291028466,
+        2.7675627514701615,
+        2.7960515914148303,
+        2.7960679548011464,
+        2.821432434825069,
+        3.4379028498075934
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 9,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 4737.201375655015,
+    "solvetime": 4727.273539066315,
+    "result": 2.2742644075690746,
+    "compare_value": 351.9757314750499,
+    "reduced_to_zones": 10,
+    "solution_info": {
+      "Status": 2,
+      "Runtime": 4727.273539066315,
+      "Work": 3159.4126051770536,
+      "ObjVal": 2.2742644075690746,
+      "ObjBound": 2.274264407569071,
+      "ObjBoundC": 2.274264407569071,
+      "MIPGap": 0,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 570148,
+      "BarIterCount": 0,
+      "NodeCount": 512,
+      "SolCount": 10,
+      "PoolObjBound": 2.274264407569071,
+      "PoolObjVal": [
+        2.2742644075690746,
+        2.355882672472026,
+        2.35588279697555,
+        2.355884365180371,
+        2.366676653778711,
+        2.3681031403511823,
+        2.3681060622897485,
+        2.368107005927408,
+        2.368756697892372,
+        2.3687571103394465
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 9,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21700.832789384003,
+    "solvetime": 21600.438088178635,
+    "result": -1,
+    "compare_value": 374.67053378231367,
+    "reduced_to_zones": 100,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.438088178635,
+      "Work": 11351.233249319821,
+      "ObjVal": 38.18723741723188,
+      "ObjBound": 23.357976435124254,
+      "ObjBoundC": 23.357976435124254,
+      "MIPGap": 0.38833029004124725,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 373712,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 7,
+      "PoolObjBound": 23.357976435124254,
+      "PoolObjVal": [
+        38.18723741723188,
+        38.187253748421874,
+        38.4792113117148,
+        49.89323380688563,
+        80.10083360291385,
+        117.74984199212852,
+        276.90103555051763
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BEST_TIDAL"
+    },
+    "seed": 9,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 22118.068032676994,
+    "solvetime": 21604.528740882874,
+    "result": -1,
+    "compare_value": 351.36484883897606,
+    "reduced_to_zones": 2,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21604.528740882874,
+      "Work": 9882.174532733055,
+      "ObjVal": 0.33385981619230315,
+      "ObjBound": 0.28630887893687434,
+      "ObjBoundC": 0.28630887893687434,
+      "MIPGap": 0.1424278542945087,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 330125,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 4,
+      "PoolObjBound": 0.28630887893687434,
+      "PoolObjVal": [
+        0.33385981619230315,
+        0.3373534609151362,
+        2.500203858878316,
+        5.087417179072918
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 9,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21710.64020049901,
+    "solvetime": 21600.75879216194,
+    "result": -1,
+    "compare_value": 353.13769091205626,
+    "reduced_to_zones": 20,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.75879216194,
+      "Work": 10612.248517283415,
+      "ObjVal": 6.968525474913886,
+      "ObjBound": 4.562441893810602,
+      "ObjBoundC": 4.562441893810602,
+      "MIPGap": 0.3452787235642583,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 389586,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 9,
+      "PoolObjBound": 4.562441893810602,
+      "PoolObjVal": [
+        6.968525474913886,
+        6.9688588679852455,
+        6.978048957043636,
+        6.978073934238761,
+        7.679939090808491,
+        8.404625811771421,
+        14.405322540273893,
+        24.33945478499536,
+        53.613878506435455
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_BETTER_TIDAL"
+    },
+    "seed": 9,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21739.115013682982,
+    "solvetime": 21600.943058013916,
+    "result": -1,
+    "compare_value": 350.1313085026324,
+    "reduced_to_zones": 30,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.943058013916,
+      "Work": 11375.833170509,
+      "ObjVal": 11.494823233215275,
+      "ObjBound": 6.414322152923245,
+      "ObjBoundC": 6.414322152923245,
+      "MIPGap": 0.44198166228528746,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 328702,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 6.414322152923245,
+      "PoolObjVal": [
+        11.494823233215275,
+        11.494934766371955,
+        11.530865014062098,
+        11.559296747509524,
+        11.577252623068624,
+        11.90167133223677,
+        14.08418154164865,
+        25.489840618032026,
+        36.27353855205004,
+        85.82483536693971
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  },
+  {
+    "solver_type": {
+      "__dtype__": "SolveType",
+      "name": "GUROBI_MANY_ZONES"
+    },
+    "seed": 9,
+    "water": {
+      "__dtype__": "Water",
+      "name": "ALL"
+    },
+    "number_of_zones": 1000,
+    "runtime": 21647.691225058006,
+    "solvetime": 21600.201393842697,
+    "result": -1,
+    "compare_value": 384.61875477742194,
+    "reduced_to_zones": 50,
+    "solution_info": {
+      "Status": 9,
+      "Runtime": 21600.201393842697,
+      "Work": 15279.875717220935,
+      "ObjVal": 19.598082823583205,
+      "ObjBound": 12.345028170094857,
+      "ObjBoundC": 12.345028170094857,
+      "MIPGap": 0.37009000925133556,
+      "IntVio": 0,
+      "BoundVio": 0,
+      "ConstrVio": 0,
+      "IterCount": 640383,
+      "BarIterCount": 0,
+      "NodeCount": 1,
+      "SolCount": 10,
+      "PoolObjBound": 12.345028170094857,
+      "PoolObjVal": [
+        19.598082823583205,
+        19.694865449381062,
+        19.744078092309167,
+        19.757961674201063,
+        19.75797807468523,
+        20.062606938013666,
+        20.179460273700442,
+        28.840350443450042,
+        53.37624703705966,
+        64.39380875235818
+      ]
+    },
+    "unfullfilled": 0,
+    "unfilled_number": 0,
+    "unfullfilled_weight": 0
+  }
+]
