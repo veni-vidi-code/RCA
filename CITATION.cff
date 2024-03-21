@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this, please cite it as below."
+authors:
+- family-names: "Mucke"
+  given-names: "Tom Aaron"
+  orcid: "https://orcid.org/0009-0009-1985-8676"
+- family-names: "Renneke"
+  given-names: "Alexander"
+  orcid: "https://orcid.org/0009-0005-1595-6827"
+- family-names: "Seesemann"
+  given-names: "Finn"
+  orcid: "https://orcid.org/0009-0002-9614-7738"
+- family-names: "Engelhardt"
+  given-names: "Felix"
+  orcid: "https://orcid.org/0009-0007-7705-4508"
+title: "RCA"
+version: 0.1.0
+doi: 10.5281/zenodo.10849562
+date-released: 2024-03-21
+url: "https://github.com/veni-vidi-code/RCA"
